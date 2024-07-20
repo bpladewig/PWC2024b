@@ -5,12 +5,44 @@
     <link>http://localhost:1313/publication_types/paper-conference/</link>
       <atom:link href="http://localhost:1313/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jul 2024 10:53:32 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Paper-Conference</title>
       <link>http://localhost:1313/publication_types/paper-conference/</link>
     </image>
+    
+    <item>
+      <title>A case study of toluene VOC removal by PDMS PDMS-modified metal organic framework adsorbent</title>
+      <link>http://localhost:1313/publication/rn-42/</link>
+      <pubDate>Sat, 20 Jul 2024 10:53:32 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-42/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A case study on toluene removal by PDMS-modified metal organic frameworks compared to activated carbon</title>
+      <link>http://localhost:1313/publication/rn-44/</link>
+      <pubDate>Sat, 20 Jul 2024 10:53:32 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facile hydrophobic modification strategy on hydrophilic metal organic frameworks for improved toluene capture</title>
+      <link>http://localhost:1313/publication/rn-43/</link>
+      <pubDate>Sat, 20 Jul 2024 10:53:32 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preparation of new composite membranes for water desalination using electrodialysis</title>
+      <link>http://localhost:1313/publication/rn-116/</link>
+      <pubDate>Sat, 20 Jul 2024 10:53:32 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-116/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example conference paper</title>

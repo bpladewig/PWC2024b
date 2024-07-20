@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter | Prof. Dr. Bradley P. Ladewig - Academic Website</title>
+    <link>http://localhost:1313/publication_types/chapter/</link>
+      <atom:link href="http://localhost:1313/publication_types/chapter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chapter</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Chapter</title>
+      <link>http://localhost:1313/publication_types/chapter/</link>
+    </image>
+    
+    <item>
+      <title>Metal-organic frameworks (MOFs) and MOF-derived porous carbon materials for sustainable adsorptive wastewater treatment</title>
+      <link>http://localhost:1313/publication/rn-46/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Membranes for Direct Methanol Fuel Cells</title>
+      <link>http://localhost:1313/publication/rn-74/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-74/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Advances in Ion Exchange Membranes for Desalination Applications</title>
+      <link>http://localhost:1313/publication/rn-90/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-90/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
