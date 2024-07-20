@@ -79,26 +79,51 @@ education:
 work:
   - position: Professor of Energy Process Engineering, Paul Wurth Chair
     company_name: University of Luxembourg
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+    company_url: 'https://www.uni.lu'
+    company_logo: 'custom/org-ul'
+    date_start: 2022-04-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Developing new courses with a focus on energy, sustainability and hydrogen
+      - Teaching in Bachelor and Masters programmes
+      - Leading research group with a focus on hydrogen-related materials and systems
+      - Leading multiple collaborative projects with industry
+  - position: Vice-Dean, Faculty of Science, Technology and Medicine
+    company_name: University of Luxembourg
+    company_url: 'https://www.uni.lu'
+    company_logo: 'custom/org-ul'
+    date_start: 2023-11-01
+    date_end: ''
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Working together with the Dean on Faculty strategic leadership
+      - Leading activities, chairing committees and developing education-focussed activities
+      - Chairing a working party on diversity in recruitment, aimed especially at increasing diversity of the academic staff in the Faculty
+  - position: Group Leader, Institute for Micro Process Engineering (IMVT)
+    company_name: Karlsruhe Institute of Technology
+    company_url: 'https://www.kit.edu'
+    company_logo: 'custom/org-kit'
+    date_start: 2018-11-01
+    date_end: 2022-03-31
+    summary: |
+      Advanced materials, membranes, photochemistry and green hydrogen research. My initial period of work at KIT was supported by an Experienced Researcher Fellowship from the [Alexander von Humboldt Foundation.](https://www.humboldt-foundation.de)  
+  - position: Senior Lecturer
+    company_name: Imperial College London
+    company_url: 'https://www.imperial.ac.uk'
+    company_logo: 'custom/org-icl'
+    date_start: 2015-05-01
+    date_end: 2019-09-01
+    summary: |
+      Teaching and research in chemical engineering, especially membrane science and engineering. Taught the course "Nuclear Chemical Engineering" for several years. Co-launched the Barrer Centre.
+  - position: Associate Professor in Chemical Engineering
+    company_name: Monash University
+    company_url: 'https://www.monash.edu'
+    company_logo: 'custom/org-monash'
+    date_start: 2009-01-01
+    date_end: 2015-05-01
+    summary: |
+      Teaching and research in chemical engineering. Appointed Lecturer in 2009, promoted to Senior Lecturer in 2011 and Associate Professor in 2012.             
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -137,39 +162,38 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: German
     percent: 75
-  - name: Portuguese
-    percent: 25
+#  - name: Portuguese
+#    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Experienced Researcher Fellowship
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    date: '2019-01-01'
+    awarder: Alexander von Humboldt Foundation
+    icon: 'custom/avh' 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+      Fellowship for a period of research at KIT working on advanced materials and reactors with Prof. Dr. Roland Dittmeyer.
+  - title: Fellow, Institution of Chemical Engineers
+    url: https://www.icheme.org
+    date: '2013-01-01'
     awarder: edX
-    icon: edx
+    icon: custom/icheme
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+  - title: Fellow, Royal Society of Chemistry
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+    date: '2016-01-01'
+    awarder: Royal Society of Chemistry
+    icon: custom/rsc
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
