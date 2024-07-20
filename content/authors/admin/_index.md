@@ -6,12 +6,12 @@ title: Prof. Dr. Bradley P. Ladewig
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Bradley
+last_name: Ladewig
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,72 +20,65 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Professor of Energy Process Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Luxembourg
+    url: https://www.uni.lu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'bradley.ladewig@uni.lu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
+  #- icon: brands/github
+  #  url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/bradladewig/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=TPYuR_4AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-2135-1913
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Green hydrogen
+  - Advanced materials
+  - Membrane separations
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Chemical Engineering
+    institution: The University of Queensland
+    date_start: 2002-06-01
+    date_end: 2006-06-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Nafion Nanocomposite Membranes for the Direct Methanol Fuel Cell_. Supervised by Prof G.Q. Max Lu, Prof. Joe da Costa, Prof. Darren Martin. 
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://search.library.uq.edu.au/permalink/f/18av8c1/61UQ_ALMA2187353080003131'
+  - area: Bachelor of Engineering (Chemical) Hons I
+    institution: The University of Queensland
+    date_start: 1998-02-01
+    date_end: 2002-06-01
     summary: |
-      GPA: 3.8/4.0
+      Graduated with First Class Honours. Final year studied as an exchange student at Nottingham University.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: Graduate Certificate in Higher Education
+    institution: Monash University
+    date_start: 2009-01-01
+    date_end: 2010-12-01
+    summary: |
+      Teaching qualification, specialising in university teaching.
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Professor of Energy Process Engineering, Paul Wurth Chair
+    company_name: University of Luxembourg
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -183,4 +176,10 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Professor of Energy Process Engineering and Paul Wurth Chair at the University of Luxembourg, leading activities in hydrogen-related materials and systems.
+
+I was previously a research group leader in the Institute for Micro Process Technology (IMVT) at Karlsruhe Institute of Technology, developing novel in-situ diagnostic techniques for micro-structured process devices, including reactors, heat exchanges, membrane systems and photochemical reactors. 
+
+Experienced in developing research concepts, securing funding, recruiting research students, publishing outcomes, obtaining protection for intellectual property, and closing out projects.
+
+Keen lecturer and member of the Chemical Engineering community, in particular through the Institution of Chemical Engineers, of which I am a Fellow (FIChemE). Also a Chartered Engineer (CEng) and Fellow of the Royal Society of Chemistry (FRSC).
