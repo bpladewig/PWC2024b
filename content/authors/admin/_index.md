@@ -127,37 +127,37 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: code-bracket
+#      - name: Data Science
+#        description: ''
+#        percent: 100
+#        icon: chart-bar
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: circle-stack
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-simple-walk
+#      - name: Cats
+#        description: ''
+#        percent: 100
+#        icon: cat
+#      - name: Photography
+#        description: ''
+#        percent: 80
+#        icon: camera
 
 languages:
   - name: English
@@ -182,20 +182,17 @@ awards:
   - title: Fellow, Institution of Chemical Engineers
     url: https://www.icheme.org
     date: '2013-01-01'
-    awarder: edX
+    awarder: IChemE
     icon: custom/icheme
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      
   - title: Fellow, Royal Society of Chemistry
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     date: '2016-01-01'
     awarder: Royal Society of Chemistry
     icon: custom/rsc
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      
 ---
 
 ## About Me
@@ -206,4 +203,4 @@ I was previously a research group leader in the Institute for Micro Process Tech
 
 Experienced in developing research concepts, securing funding, recruiting research students, publishing outcomes, obtaining protection for intellectual property, and closing out projects.
 
-Keen lecturer and member of the Chemical Engineering community, in particular through the Institution of Chemical Engineers, of which I am a Fellow (FIChemE). Also a Chartered Engineer (CEng) and Fellow of the Royal Society of Chemistry (FRSC).
+Keen lecturer and member of the Chemical Engineering community, in particular through the Institution of Chemical Engineers, of which I am a Fellow (FIChemE). Also a Chartered Engineer (CEng) and Fellow of the Royal Society of Chemistry (FRSC). Proud former Chevening Scholar and Humboldtian.
