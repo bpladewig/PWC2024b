@@ -6,7 +6,7 @@ authors:
 - R. Alrozi
 - N. A. Zubir
 - N. F. A. Bakar
-- B. P. Ladewig
+- admin
 - J. Motuzas
 - N. H. H. A. Bakar
 - D. K. Wang
@@ -17,6 +17,10 @@ publication_types:
 - article-journal
 publication: '*Journal of the Taiwan Institute of Chemical Engineers*'
 doi: 10.1016/j.jtice.2023.104675
+
+image:
+  caption: 
+
 links:
 - name: URL
   url: 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electrochemical Systems | Prof. Dr. Bradley P. Ladewig - Academic Website</title>
+    <link>http://localhost:1313/tags/electrochemical-systems/</link>
+      <atom:link href="http://localhost:1313/tags/electrochemical-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Electrochemical Systems</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Electrochemical Systems</title>
+      <link>http://localhost:1313/tags/electrochemical-systems/</link>
+    </image>
+    
+    <item>
+      <title>H2-Global</title>
+      <link>http://localhost:1313/project/h2-global/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/h2-global/</guid>
+      <description>&lt;p&gt;H2-Global is a project supported by the FNR, to work on electrochemical methods for green hydrogen production from a range of feedstocks. The project supports an extended scientific visit by Professor Manoj Neergat from IIT Bombay, working in Luxembourg for 12 months spread over a three year period.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

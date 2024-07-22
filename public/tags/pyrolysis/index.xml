@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pyrolysis | Prof. Dr. Bradley P. Ladewig - Academic Website</title>
+    <link>http://localhost:1313/tags/pyrolysis/</link>
+      <atom:link href="http://localhost:1313/tags/pyrolysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pyrolysis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Pyrolysis</title>
+      <link>http://localhost:1313/tags/pyrolysis/</link>
+    </image>
+    
+    <item>
+      <title>Hydrogen from Waste Plastic and Biomass</title>
+      <link>http://localhost:1313/project/hyway/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/hyway/</guid>
+      <description>&lt;p&gt;HyWay is a Marie Sklowdowska-Curie Staff Exchange project, coordinated by Prof. Bradley Ladewig.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

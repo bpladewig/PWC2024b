@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Selection of research and development projects currently running in the Paul Wurth Chair.
       filters:
         folders:
           - project

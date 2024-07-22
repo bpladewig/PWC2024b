@@ -13,27 +13,27 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
+      <title>H2-Global</title>
+      <link>http://localhost:1313/project/h2-global/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/project/h2-global/</guid>
+      <description>&lt;p&gt;H2-Global is a project supported by the FNR, to work on electrochemical methods for green hydrogen production from a range of feedstocks. The project supports an extended scientific visit by Professor Manoj Neergat from IIT Bombay, working in Luxembourg for 12 months spread over a three year period.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
+      <title>Hydrogen from Waste Plastic and Biomass</title>
+      <link>http://localhost:1313/project/hyway/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/project/hyway/</guid>
+      <description>&lt;p&gt;HyWay is a Marie Sklowdowska-Curie Staff Exchange project, coordinated by Prof. Bradley Ladewig.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
+      <title>Luxembourg Hydrogen Valley</title>
+      <link>http://localhost:1313/project/luxhyval/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/project/luxhyval/</guid>
+      <description>&lt;p&gt;End-to-end value chain in green hydrogen in Luxembourg. See external website for more details.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -8,13 +8,14 @@ authors:
 - S. Bräse
 - H. Zappe
 - R. Dittmeyer
-- B. P. Ladewig
-date: '2021-01-01'
+- admin
+date: '2021-04-16'
 publishDate: '2024-07-20T10:53:32.280874Z'
 publication_types:
 - article-journal
 publication: '*Reaction Chemistry and Engineering*'
 doi: 10.1039/d1re00038a
+abstract: The integration of specific sensors into microfluidic reactors and devices is crucial for the optimization of controllable variables such as flow, temperature, energy input (light, microwaves etc.). In this review, we highlight the state of the art for the integration of in situ sensors.
 links:
 - name: URL
   url: 

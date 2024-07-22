@@ -76,8 +76,16 @@
     <item>
       <title>Extraction of the intrinsic rate constant for a photocyclization reaction in capillary microreactors using a simplified reactor model</title>
       <link>http://localhost:1313/publication/rn-24/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potential application of hybrid forward osmosis – Membrane distillation (FO-MD) system for various water treatment processes</title>
+      <link>http://localhost:1313/publication/rn-25/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-25/</guid>
       <description></description>
     </item>
     
@@ -168,27 +176,27 @@
     </item>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
+      <title>H2-Global</title>
+      <link>http://localhost:1313/project/h2-global/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/project/h2-global/</guid>
+      <description>&lt;p&gt;H2-Global is a project supported by the FNR, to work on electrochemical methods for green hydrogen production from a range of feedstocks. The project supports an extended scientific visit by Professor Manoj Neergat from IIT Bombay, working in Luxembourg for 12 months spread over a three year period.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
+      <title>Hydrogen from Waste Plastic and Biomass</title>
+      <link>http://localhost:1313/project/hyway/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/project/hyway/</guid>
+      <description>&lt;p&gt;HyWay is a Marie Sklowdowska-Curie Staff Exchange project, coordinated by Prof. Bradley Ladewig.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
+      <title>Luxembourg Hydrogen Valley</title>
+      <link>http://localhost:1313/project/luxhyval/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/project/luxhyval/</guid>
+      <description>&lt;p&gt;End-to-end value chain in green hydrogen in Luxembourg. See external website for more details.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -310,7 +318,7 @@
 
 
 
-&lt;div id=&#34;chart-213546798&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-635472189&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -328,7 +336,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-213546798&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-635472189&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -963,16 +971,24 @@ Parallel 4   :         des6, after des4, 1d
     <item>
       <title>Photoresponsive Polymer and Polymer Composite Membranes for Gas Separation</title>
       <link>http://localhost:1313/publication/rn-27/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-27/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Potential application of hybrid forward osmosis – Membrane distillation (FO-MD) system for various water treatment processes</title>
-      <link>http://localhost:1313/publication/rn-25/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-25/</guid>
+      <title>Natural and recycled materials for sustainable membrane modification: Recent trends and prospects</title>
+      <link>http://localhost:1313/publication/rn-28/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Chemical and Biochemical Engineers Excited about Additive Manufacturing</title>
+      <link>http://localhost:1313/publication/rn-29/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-29/</guid>
       <description></description>
     </item>
     
@@ -985,22 +1001,6 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Getting Chemical and Biochemical Engineers Excited about Additive Manufacturing</title>
-      <link>http://localhost:1313/publication/rn-29/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-29/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investigation of mass transport processes in a microstructured membrane reactor for the direct synthesis of hydrogen peroxide</title>
-      <link>http://localhost:1313/publication/rn-30/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-30/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Metal-Organic Framework MIL-68(In)-NH2 on the Membrane Test Bench for Dye Removal and Carbon Capture</title>
       <link>http://localhost:1313/publication/rn-32/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -1009,10 +1009,18 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Natural and recycled materials for sustainable membrane modification: Recent trends and prospects</title>
-      <link>http://localhost:1313/publication/rn-28/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-28/</guid>
+      <title>Investigation of mass transport processes in a microstructured membrane reactor for the direct synthesis of hydrogen peroxide</title>
+      <link>http://localhost:1313/publication/rn-30/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term stable metal organic framework (MOF) based mixed matrix membranes for ultrafiltration</title>
+      <link>http://localhost:1313/publication/rn-34/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-34/</guid>
       <description></description>
     </item>
     
@@ -1029,14 +1037,6 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/publication/rn-35/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-35/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Long-term stable metal organic framework (MOF) based mixed matrix membranes for ultrafiltration</title>
-      <link>http://localhost:1313/publication/rn-34/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-34/</guid>
       <description></description>
     </item>
     
