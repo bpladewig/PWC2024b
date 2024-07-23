@@ -63,6 +63,7 @@
       "title",
       "tr",
       "ul",
+      "video",
       "|--"
     ],
     "classes": [
@@ -564,7 +565,7 @@
       "TableOfContents",
       "about-me",
       "callouts",
-      "chart-819273465",
+      "chart-832659147",
       "charts",
       "code",
       "crowd-funded-open-source-software",
