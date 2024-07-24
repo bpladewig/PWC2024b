@@ -13,22 +13,6 @@
     </image>
     
     <item>
-      <title>A case study of toluene VOC removal by PDMS PDMS-modified metal organic framework adsorbent</title>
-      <link>http://localhost:1313/publication/rn-42/</link>
-      <pubDate>Sat, 20 Jul 2024 10:53:32 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-42/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A case study on toluene removal by PDMS-modified metal organic frameworks compared to activated carbon</title>
-      <link>http://localhost:1313/publication/rn-44/</link>
-      <pubDate>Sat, 20 Jul 2024 10:53:32 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-44/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Facile hydrophobic modification strategy on hydrophilic metal organic frameworks for improved toluene capture</title>
       <link>http://localhost:1313/publication/rn-43/</link>
       <pubDate>Sat, 20 Jul 2024 10:53:32 +0000</pubDate>
@@ -117,6 +101,14 @@
     </item>
     
     <item>
+      <title>Solvent-induced enantioselectivity reversal in a chiral metal organic framework</title>
+      <link>http://localhost:1313/publication/rn-36/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Long-term stable metal organic framework (MOF) based mixed matrix membranes for ultrafiltration</title>
       <link>http://localhost:1313/publication/rn-34/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
@@ -133,6 +125,14 @@
     </item>
     
     <item>
+      <title>Nafion membranes modified by cationic cyclodextrin derivatives for enantioselective separation</title>
+      <link>http://localhost:1313/publication/rn-37/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A comprehensive review on the synthesis and applications of ion exchange membranes</title>
       <link>http://localhost:1313/publication/rn-33/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -141,50 +141,66 @@
     </item>
     
     <item>
-      <title>Nafion membranes modified by cationic cyclodextrin derivatives for enantioselective separation</title>
-      <link>http://localhost:1313/publication/rn-37/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-37/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Polymer-assisted modification of metal-organic framework MIL-96 (Al): influence of HPAM concentration on particle size, crystal morphology and removal of harmful environmental pollutant PFOA</title>
       <link>http://localhost:1313/publication/rn-38/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-38/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solvent-induced enantioselectivity reversal in a chiral metal organic framework</title>
-      <link>http://localhost:1313/publication/rn-36/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-36/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A review on emerging organic-containing microporous material membranes for carbon capture and separation</title>
-      <link>http://localhost:1313/publication/rn-39/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-39/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can metal organic frameworks outperform adsorptive removal of harmful phenolic compound 2-chlorophenol by activated carbon?</title>
       <link>http://localhost:1313/publication/rn-40/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A case study of toluene VOC removal by PDMS PDMS-modified metal organic framework adsorbent</title>
+      <link>http://localhost:1313/publication/rn-42/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-42/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A case study on toluene removal by PDMS-modified metal organic frameworks compared to activated carbon</title>
+      <link>http://localhost:1313/publication/rn-44/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A review on emerging organic-containing microporous material membranes for carbon capture and separation</title>
+      <link>http://localhost:1313/publication/rn-39/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic screening of DMOF-1 with NH2, NO2, Br and azobenzene functionalities for elucidation of carbon dioxide and nitrogen separation properties</title>
+      <link>http://localhost:1313/publication/rn-45/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-45/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Green synthesis of polymeric membranes: Recent advances and future prospects</title>
       <link>http://localhost:1313/publication/rn-41/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-41/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multifunctional, Charge-Neutral, Chiral Octahedral M12L12 Cage</title>
+      <link>http://localhost:1313/publication/rn-47/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-47/</guid>
       <description></description>
     </item>
     
@@ -205,10 +221,10 @@
     </item>
     
     <item>
-      <title>A Multifunctional, Charge-Neutral, Chiral Octahedral M12L12 Cage</title>
-      <link>http://localhost:1313/publication/rn-47/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-47/</guid>
+      <title>Gas permeation through single-crystal ZIF-8 membranes</title>
+      <link>http://localhost:1313/publication/rn-49/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-49/</guid>
       <description></description>
     </item>
     
@@ -217,14 +233,6 @@
       <link>http://localhost:1313/publication/rn-51/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-51/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gas permeation through single-crystal ZIF-8 membranes</title>
-      <link>http://localhost:1313/publication/rn-49/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-49/</guid>
       <description></description>
     </item>
     
@@ -249,14 +257,6 @@
       <link>http://localhost:1313/publication/rn-46/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-46/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Systematic screening of DMOF-1 with NH2, NO2, Br and azobenzene functionalities for elucidation of carbon dioxide and nitrogen separation properties</title>
-      <link>http://localhost:1313/publication/rn-45/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-45/</guid>
       <description></description>
     </item>
     

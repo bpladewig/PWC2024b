@@ -4,9 +4,9 @@ title: A case study of toluene VOC removal by PDMS PDMS-modified metal organic f
 authors:
 - L. H. Mohd Azmi
 - E. Hunter-Sellars
-- B. Ladewig
+- admin
 - D. Williams
-date: -01-01
+date: '2020-01-01'
 publishDate: '2024-07-20T10:53:32.324836Z'
 publication_types:
 - paper-conference

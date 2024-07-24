@@ -4,9 +4,9 @@ title: A case study on toluene removal by PDMS-modified metal organic frameworks
 authors:
 - L. H. Mohd Azmi
 - E. Hunter-Sellars
-- B. Ladewig
+- admin
 - D. Williams
-date: -01-01
+date: 2020-01-01
 publishDate: '2024-07-20T10:53:32.337550Z'
 publication_types:
 - paper-conference

@@ -4,7 +4,7 @@ title: Facile hydrophobic modification strategy on hydrophilic metal organic fra
 authors:
 - L. H. Mohd Azmi
 - E. Hunter-Sellars
-- B. Ladewig
+- admin
 - D. Williams
 date: -01-01
 publishDate: '2024-07-20T10:53:32.331201Z'

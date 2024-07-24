@@ -5,7 +5,7 @@ authors:
 - Z. Abbasi
 - L. Cseri
 - X. Zhang
-- B. P. Ladewig
+- admin
 - H. Wang
 date: '2019-01-01'
 publishDate: '2024-07-20T10:53:31.840786Z'
@@ -14,6 +14,7 @@ publication_types:
 publication: '*Sustainable Nanoscale Engineering: From Materials Design to Chemical
   Processing*'
 doi: 10.1016/B978-0-12-814681-1.00007-2
+abstract: This chapter provides an overview of the recent research in the literature about nanoporous materials including metal–organic frameworks (MOFs) and nanoporous carbons for the application in water treatment through adsorption. The structures and physicochemical characteristics of the porous materials are described in detail. The theories about adsorption process, isotherms, kinetics, mechanisms, and the important parameters affecting the adsorption process are also reviewed. The shaping of MOF powders and the recent progress in this area are also introduced. The conclusions and future perspectives, as well as comments on sustainability, are presented at the end of this chapter.
 links:
 - name: URL
   url: 
