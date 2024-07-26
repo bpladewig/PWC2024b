@@ -5,7 +5,7 @@ authors:
 - J. Gaálová
 - M. Michel
 - M. Bourassi
-- B. P. Ladewig
+- admin
 - P. Kasal
 - J. Jindřich
 - P. Izák

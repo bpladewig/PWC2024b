@@ -250,6 +250,14 @@
     <lastmod>2019-07-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/publication/rn-52/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/rn-51/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication/rn-47/</loc>
     <lastmod>2019-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -270,10 +278,6 @@
     <lastmod>2019-01-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/rn-51/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication_types/chapter/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -290,32 +294,40 @@
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/rn-52/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/rn-54/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/rn-57/</loc>
+    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/rn-55/</loc>
+    <lastmod>2018-05-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/rn-53/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/rn-56/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/rn-55/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/rn-58/</loc>
+    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/rn-57/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/rn-59/</loc>
+    <lastmod>2017-10-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/rn-53/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/rn-54/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/rn-60/</loc>
+    <lastmod>2017-10-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/rn-61/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/rn-64/</loc>
@@ -326,19 +338,7 @@
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/rn-59/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/rn-60/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication/rn-66/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/rn-58/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

@@ -1,7 +1,7 @@
 ---
 title: Membranes for Direct Methanol Fuel Cells
 authors:
-- B. P. Ladewig
+- admin
 - B. M. Asquith
 - J. Meier-Haack
 date: '2015-01-01'

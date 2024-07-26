@@ -197,7 +197,7 @@ awards:
 
 ## About Me
 
-Professor of Energy Process Engineering and Paul Wurth Chair at the University of Luxembourg, leading activities in hydrogen-related materials and systems.
+Professor of Energy Process Engineering and Paul Wurth Chair at the University of Luxembourg, leading activities in hydrogen-related materials and systems. Vice-Dean of the Faculty of Science, Technology and Medicine.
 
 I was previously a research group leader in the Institute for Micro Process Technology (IMVT) at Karlsruhe Institute of Technology, developing novel in-situ diagnostic techniques for micro-structured process devices, including reactors, heat exchanges, membrane systems and photochemical reactors. 
 

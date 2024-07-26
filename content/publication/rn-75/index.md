@@ -1,7 +1,7 @@
 ---
 title: Materials for Low-Temperature Fuel Cells
 authors:
-- B. P. Ladewig
+- admin
 - S. P. Jiang
 - Y. Yan
 date: '2015-01-01'

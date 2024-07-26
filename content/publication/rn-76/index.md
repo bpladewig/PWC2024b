@@ -1,13 +1,13 @@
 ---
 title: 'Key Materials for Low-Temperature Fuel Cells: An Introduction'
 authors:
-- B. P. Ladewig
+- admin
 - B. M. Asquith
 - J. Meier-Haack
 date: '2015-01-01'
 publishDate: '2024-07-20T10:53:32.206416Z'
 publication_types:
-- article-journal
+- chapter
 publication: '*Materials for Low-Temperature Fuel Cells*'
 doi: 10.1002/9783527644308.ch01
 links:

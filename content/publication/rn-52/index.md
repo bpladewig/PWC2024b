@@ -7,13 +7,14 @@ authors:
 - A. Duckworth
 - A. J. P. White
 - M. R. Hill
-- B. P. Ladewig
-date: '2019-01-01'
+- admin
+date: '2019-06-05'
 publishDate: '2024-07-20T10:53:32.450176Z'
 publication_types:
 - article-journal
 publication: '*Chemical Communications*'
 doi: 10.1039/c9cc02861g
+abstract: 'Waste PLA can be upcycled to metal organic frameworks of potential high value in a one-pot synthesis scheme, where PLA depolymerisation occurs in situ. Three homochiral lactate based frameworks were successfully synthesised and characterised from PLA as a feed source, including ZnBLD. The chiral separation ability of ZnBLD was maintained.'
 links:
 - name: URL
   url: 

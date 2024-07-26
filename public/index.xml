@@ -318,7 +318,7 @@
 
 
 
-&lt;div id=&#34;chart-297631584&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-327615948&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -336,7 +336,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-297631584&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-327615948&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1113,6 +1113,14 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Upcycling a plastic cup: One-pot synthesis of lactate containing metal organic frameworks from polylactic acid</title>
+      <link>http://localhost:1313/publication/rn-52/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-52/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An insight into the effect of azobenzene functionalities studied in UiO-66 frameworks for low energy CO2 capture and CO2/N2 membrane separation</title>
       <link>http://localhost:1313/publication/rn-51/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
@@ -1177,10 +1185,34 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Upcycling a plastic cup: One-pot synthesis of lactate containing metal organic frameworks from polylactic acid</title>
-      <link>http://localhost:1313/publication/rn-52/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-52/</guid>
+      <title>New Azo-DMOF-1 MOF as a Photoresponsive Low-Energy CO2 Adsorbent and Its Exceptional CO2/N2 Separation Performance in Mixed Matrix Membranes</title>
+      <link>http://localhost:1313/publication/rn-54/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-54/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A scientometric study of the research on ion exchange membranes</title>
+      <link>http://localhost:1313/publication/rn-57/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-57/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A review of the synthesis and characterization of anion exchange membranes</title>
+      <link>http://localhost:1313/publication/rn-55/</link>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-55/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrimid-JUC-62 and Matrimid-PCN-250 mixed matrix membranes displaying light-responsive gas separation and beneficial ageing characteristics for CO2/N2 separation</title>
+      <link>http://localhost:1313/publication/rn-53/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-53/</guid>
       <description></description>
     </item>
     
@@ -1193,65 +1225,17 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>A review of the synthesis and characterization of anion exchange membranes</title>
-      <link>http://localhost:1313/publication/rn-55/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-55/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A scientometric study of the research on ion exchange membranes</title>
-      <link>http://localhost:1313/publication/rn-57/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-57/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matrimid-JUC-62 and Matrimid-PCN-250 mixed matrix membranes displaying light-responsive gas separation and beneficial ageing characteristics for CO2/N2 separation</title>
-      <link>http://localhost:1313/publication/rn-53/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-53/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New Azo-DMOF-1 MOF as a Photoresponsive Low-Energy CO2 Adsorbent and Its Exceptional CO2/N2 Separation Performance in Mixed Matrix Membranes</title>
-      <link>http://localhost:1313/publication/rn-54/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-54/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A review of reverse osmosis membrane fouling and control strategies</title>
-      <link>http://localhost:1313/publication/rn-61/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-61/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Broadband dielectric spectroscopy of Nafion-117, sulfonated polysulfone (sPSF) and sulfonated polyether ketone (sPEK) membranes</title>
-      <link>http://localhost:1313/publication/rn-64/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-64/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dielectric relaxations in phosphoric acid-doped poly(2,5-benzimidazole) and its composite membranes</title>
-      <link>http://localhost:1313/publication/rn-63/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-63/</guid>
+      <title>Missing Linker Defects in a Homochiral Metal-Organic Framework: Tuning the Chiral Separation Capacity</title>
+      <link>http://localhost:1313/publication/rn-58/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-58/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic photo-switching in light-responsive JUC-62 for CO 2 capture</title>
       <link>http://localhost:1313/publication/rn-59/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-59/</guid>
       <description></description>
     </item>
@@ -1259,24 +1243,48 @@ Parallel 4   :         des6, after des4, 1d
     <item>
       <title>High Ion-Exchange Capacity Semihomogeneous Cation Exchange Membranes Prepared via a Novel Polymerization and Sulfonation Approach in Porous Polypropylene</title>
       <link>http://localhost:1313/publication/rn-60/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A review of reverse osmosis membrane fouling and control strategies</title>
+      <link>http://localhost:1313/publication/rn-61/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-61/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highly fouling-resistant brominated poly(phenylene oxide) membranes using surface grafted diethylenetriamine</title>
       <link>http://localhost:1313/publication/rn-66/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-66/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Missing Linker Defects in a Homochiral Metal-Organic Framework: Tuning the Chiral Separation Capacity</title>
-      <link>http://localhost:1313/publication/rn-58/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-58/</guid>
+      <title>Dielectric relaxations in phosphoric acid-doped poly(2,5-benzimidazole) and its composite membranes</title>
+      <link>http://localhost:1313/publication/rn-63/</link>
+      <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-63/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broadband dielectric spectroscopy of Nafion-117, sulfonated polysulfone (sPSF) and sulfonated polyether ketone (sPEK) membranes</title>
+      <link>http://localhost:1313/publication/rn-64/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-64/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple fabrication of zeolitic imidazolate framework ZIF-8/polymer composite beads by phase inversion method for efficient oil sorption</title>
+      <link>http://localhost:1313/publication/rn-65/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-65/</guid>
       <description></description>
     </item>
     
@@ -1289,17 +1297,9 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Simple fabrication of zeolitic imidazolate framework ZIF-8/polymer composite beads by phase inversion method for efficient oil sorption</title>
-      <link>http://localhost:1313/publication/rn-65/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-65/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Effect of carbonization temperature on adsorption property of ZIF-8 derived nanoporous carbon for water treatment</title>
       <link>http://localhost:1313/publication/rn-67/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-67/</guid>
       <description></description>
     </item>
@@ -1307,7 +1307,7 @@ Parallel 4   :         des6, after des4, 1d
     <item>
       <title>Physical aging in glassy mixed matrix membranes; Tuning particle interaction for mechanically robust nanocomposite films</title>
       <link>http://localhost:1313/publication/rn-69/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-69/</guid>
       <description></description>
     </item>
@@ -1315,8 +1315,16 @@ Parallel 4   :         des6, after des4, 1d
     <item>
       <title>Use of vibratory shear enhanced processing to treat magnetic ion exchange concentrate: A techno-economic analysis</title>
       <link>http://localhost:1313/publication/rn-68/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-68/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visible Light-Triggered Capture and Release of CO2 from Stable Metal Organic Frameworks</title>
+      <link>http://localhost:1313/publication/rn-70/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-70/</guid>
       <description></description>
     </item>
     
@@ -1342,6 +1350,46 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Poly(arylene ether sulfone) copolymers as binders for capacitive deionization activated carbon electrodes</title>
+      <link>http://localhost:1313/publication/rn-78/</link>
+      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-78/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tunable Photodynamic Switching of DArE@PAF-1 for Carbon Capture</title>
+      <link>http://localhost:1313/publication/rn-71/</link>
+      <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-71/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of a vibratory shear membrane filtration system during the treatment of magnetic ion exchange process concentrate</title>
+      <link>http://localhost:1313/publication/rn-72/</link>
+      <pubDate>Tue, 10 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-72/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and characterisation of superhydrophilic conductive heterogeneous PANI/PVDF anion-exchange membranes</title>
+      <link>http://localhost:1313/publication/rn-73/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-73/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-synthetic Ti Exchanged UiO-66 Metal-Organic Frameworks that Deliver Exceptional Gas Permeability in Mixed Matrix Membranes</title>
+      <link>http://localhost:1313/publication/rn-77/</link>
+      <pubDate>Fri, 16 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-77/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Key Materials for Low-Temperature Fuel Cells: An Introduction</title>
       <link>http://localhost:1313/publication/rn-76/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -1362,54 +1410,6 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/publication/rn-74/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-74/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance of a vibratory shear membrane filtration system during the treatment of magnetic ion exchange process concentrate</title>
-      <link>http://localhost:1313/publication/rn-72/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-72/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poly(arylene ether sulfone) copolymers as binders for capacitive deionization activated carbon electrodes</title>
-      <link>http://localhost:1313/publication/rn-78/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-78/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Post-synthetic Ti Exchanged UiO-66 Metal-Organic Frameworks that Deliver Exceptional Gas Permeability in Mixed Matrix Membranes</title>
-      <link>http://localhost:1313/publication/rn-77/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-77/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Synthesis and characterisation of superhydrophilic conductive heterogeneous PANI/PVDF anion-exchange membranes</title>
-      <link>http://localhost:1313/publication/rn-73/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-73/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tunable Photodynamic Switching of DArE@PAF-1 for Carbon Capture</title>
-      <link>http://localhost:1313/publication/rn-71/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-71/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visible Light-Triggered Capture and Release of CO2 from Stable Metal Organic Frameworks</title>
-      <link>http://localhost:1313/publication/rn-70/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-70/</guid>
       <description></description>
     </item>
     

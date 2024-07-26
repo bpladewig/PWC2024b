@@ -3,13 +3,14 @@ title: High Ion-Exchange Capacity Semihomogeneous Cation Exchange Membranes Prep
   via a Novel Polymerization and Sulfonation Approach in Porous Polypropylene
 authors:
 - S. Jiang
-- B. P. Ladewig
-date: '2017-01-01'
+- admin
+date: '2017-10-13'
 publishDate: '2024-07-20T10:53:32.098834Z'
 publication_types:
 - article-journal
 publication: '*ACS Applied Materials and Interfaces*'
 doi: 10.1021/acsami.7b13076
+abstract: 'Semihomogeneous cation exchange membranes with superior ion exchange capacity (IEC) were synthesized via a novel polymerization and sulfonation approach in porous polypropylene support. The IEC of membranes could reach up to 3 mmol/g because of high mass ratio of functional polymer to membrane support. Especially, theoretical IEC threshold value agreed well with experimental threshold value, indicating that IEC could be specifically designed without carrying out extensive experiments. Also, sulfonate groups were distributed both on membrane surface and across the membranes, which corresponded well with high IEC of the synthesized membranes. In addition, the semifinished membrane showed hydrophobic property because of the formation of polystyrene. In contrast, the final membranes demonstrated super hydrophilic property, indicating the adequate sulfonation of polystyrene. Furthermore, when sulfonation reaction time increased, the conductivity of membranes also showed a tendency to increase, revealing the positive relationship between conductivity and IEC. Finally, the final membranes showed sufficient thermal stability for electrodialysis applications such as water desalination.'
 links:
 - name: URL
   url: 
