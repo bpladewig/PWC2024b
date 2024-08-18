@@ -4,7 +4,7 @@ title: Dynamic photo-switching in metal-organic frameworks as a route to low-ene
 authors:
 - R. Lyndon
 - K. Konstas
-- B. P. Ladewig
+- admin
 - P. D. Southon
 - P. C. J. Kepert
 - M. R. Hill

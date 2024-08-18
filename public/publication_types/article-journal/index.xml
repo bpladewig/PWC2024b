@@ -7,7 +7,7 @@
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Article-Journal</title>
       <link>http://localhost:1313/publication_types/article-journal/</link>
     </image>
@@ -285,26 +285,34 @@
     </item>
     
     <item>
-      <title>Broadband dielectric spectroscopy of Nafion-117, sulfonated polysulfone (sPSF) and sulfonated polyether ketone (sPEK) membranes</title>
-      <link>http://localhost:1313/publication/rn-64/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-64/</guid>
+      <title>Highly fouling-resistant brominated poly(phenylene oxide) membranes using surface grafted diethylenetriamine</title>
+      <link>http://localhost:1313/publication/rn-66/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-66/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dielectric relaxations in phosphoric acid-doped poly(2,5-benzimidazole) and its composite membranes</title>
       <link>http://localhost:1313/publication/rn-63/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-63/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Highly fouling-resistant brominated poly(phenylene oxide) membranes using surface grafted diethylenetriamine</title>
-      <link>http://localhost:1313/publication/rn-66/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-66/</guid>
+      <title>Broadband dielectric spectroscopy of Nafion-117, sulfonated polysulfone (sPSF) and sulfonated polyether ketone (sPEK) membranes</title>
+      <link>http://localhost:1313/publication/rn-64/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-64/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple fabrication of zeolitic imidazolate framework ZIF-8/polymer composite beads by phase inversion method for efficient oil sorption</title>
+      <link>http://localhost:1313/publication/rn-65/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-65/</guid>
       <description></description>
     </item>
     
@@ -317,17 +325,9 @@
     </item>
     
     <item>
-      <title>Simple fabrication of zeolitic imidazolate framework ZIF-8/polymer composite beads by phase inversion method for efficient oil sorption</title>
-      <link>http://localhost:1313/publication/rn-65/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-65/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Effect of carbonization temperature on adsorption property of ZIF-8 derived nanoporous carbon for water treatment</title>
       <link>http://localhost:1313/publication/rn-67/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-67/</guid>
       <description></description>
     </item>
@@ -335,7 +335,7 @@
     <item>
       <title>Physical aging in glassy mixed matrix membranes; Tuning particle interaction for mechanically robust nanocomposite films</title>
       <link>http://localhost:1313/publication/rn-69/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-69/</guid>
       <description></description>
     </item>
@@ -343,116 +343,63 @@
     <item>
       <title>Use of vibratory shear enhanced processing to treat magnetic ion exchange concentrate: A techno-economic analysis</title>
       <link>http://localhost:1313/publication/rn-68/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-68/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Key Materials for Low-Temperature Fuel Cells: An Introduction</title>
-      <link>http://localhost:1313/publication/rn-76/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-76/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance of a vibratory shear membrane filtration system during the treatment of magnetic ion exchange process concentrate</title>
-      <link>http://localhost:1313/publication/rn-72/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-72/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poly(arylene ether sulfone) copolymers as binders for capacitive deionization activated carbon electrodes</title>
-      <link>http://localhost:1313/publication/rn-78/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-78/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Post-synthetic Ti Exchanged UiO-66 Metal-Organic Frameworks that Deliver Exceptional Gas Permeability in Mixed Matrix Membranes</title>
-      <link>http://localhost:1313/publication/rn-77/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-77/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Synthesis and characterisation of superhydrophilic conductive heterogeneous PANI/PVDF anion-exchange membranes</title>
-      <link>http://localhost:1313/publication/rn-73/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-73/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tunable Photodynamic Switching of DArE@PAF-1 for Carbon Capture</title>
-      <link>http://localhost:1313/publication/rn-71/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-71/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visible Light-Triggered Capture and Release of CO2 from Stable Metal Organic Frameworks</title>
       <link>http://localhost:1313/publication/rn-70/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-70/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cation exchange copolymer enhanced electrosorption</title>
-      <link>http://localhost:1313/publication/rn-80/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-80/</guid>
+      <title>Poly(arylene ether sulfone) copolymers as binders for capacitive deionization activated carbon electrodes</title>
+      <link>http://localhost:1313/publication/rn-78/</link>
+      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-78/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Direct carbon fuel cell operation on brown coal</title>
-      <link>http://localhost:1313/publication/rn-81/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-81/</guid>
+      <title>Tunable Photodynamic Switching of DArE@PAF-1 for Carbon Capture</title>
+      <link>http://localhost:1313/publication/rn-71/</link>
+      <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-71/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gold nanoparticle-functionalized thread as a substrate for SERS study of analytes both bound and unbound to gold</title>
-      <link>http://localhost:1313/publication/rn-84/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-84/</guid>
+      <title>Performance of a vibratory shear membrane filtration system during the treatment of magnetic ion exchange process concentrate</title>
+      <link>http://localhost:1313/publication/rn-72/</link>
+      <pubDate>Tue, 10 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-72/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and characterisation of superhydrophilic conductive heterogeneous PANI/PVDF anion-exchange membranes</title>
+      <link>http://localhost:1313/publication/rn-73/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-73/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-synthetic Ti Exchanged UiO-66 Metal-Organic Frameworks that Deliver Exceptional Gas Permeability in Mixed Matrix Membranes</title>
+      <link>http://localhost:1313/publication/rn-77/</link>
+      <pubDate>Fri, 16 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-77/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review of high recovery concentrate management options</title>
       <link>http://localhost:1313/publication/rn-83/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Aug 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-83/</guid>
       <description></description>
     </item>
@@ -460,16 +407,72 @@
     <item>
       <title>Sodium borohydride treatment: A simple and effective process for the removal of stabilizer and capping agents from shape-controlled palladium nanoparticles</title>
       <link>http://localhost:1313/publication/rn-79/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-79/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cation exchange copolymer enhanced electrosorption</title>
+      <link>http://localhost:1313/publication/rn-80/</link>
+      <pubDate>Tue, 13 May 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-80/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The carbon sponge: Squeezing out captured carbon dioxide</title>
       <link>http://localhost:1313/publication/rn-82/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct carbon fuel cell operation on brown coal</title>
+      <link>http://localhost:1313/publication/rn-81/</link>
+      <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gold nanoparticle-functionalized thread as a substrate for SERS study of analytes both bound and unbound to gold</title>
+      <link>http://localhost:1313/publication/rn-84/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial control of zeolitic imidazolate framework growth on flexible substrates</title>
+      <link>http://localhost:1313/publication/rn-85/</link>
+      <pubDate>Thu, 29 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of sulfonated poly(ether ether ketone) ion exchange preparation conditions on membrane properties</title>
+      <link>http://localhost:1313/publication/rn-88/</link>
+      <pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Side-chain sulfonated copolymer cation exchange membranes for electro-driven desalination applications</title>
+      <link>http://localhost:1313/publication/rn-86/</link>
+      <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Removal of surfactant and capping agent from Pd nanocubes (Pd-NCs) using tert-butylamine: Its effect on electrochemical characteristics</title>
+      <link>http://localhost:1313/publication/rn-87/</link>
+      <pubDate>Fri, 17 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-87/</guid>
       <description></description>
     </item>
     
@@ -482,42 +485,18 @@
     </item>
     
     <item>
-      <title>Removal of surfactant and capping agent from Pd nanocubes (Pd-NCs) using tert-butylamine: Its effect on electrochemical characteristics</title>
-      <link>http://localhost:1313/publication/rn-87/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-87/</guid>
+      <title>Towards new opportunities for reuse, recycling and disposal of used reverse osmosis membranes</title>
+      <link>http://localhost:1313/publication/rn-92/</link>
+      <pubDate>Thu, 21 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-92/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Side-chain sulfonated copolymer cation exchange membranes for electro-driven desalination applications</title>
-      <link>http://localhost:1313/publication/rn-86/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-86/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial control of zeolitic imidazolate framework growth on flexible substrates</title>
-      <link>http://localhost:1313/publication/rn-85/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-85/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The effects of sulfonated poly(ether ether ketone) ion exchange preparation conditions on membrane properties</title>
-      <link>http://localhost:1313/publication/rn-88/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cost effective cation exchange membranes: A review</title>
-      <link>http://localhost:1313/publication/rn-94/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-94/</guid>
+      <title>Review of fuels for direct carbon fuel cells</title>
+      <link>http://localhost:1313/publication/rn-95/</link>
+      <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-95/</guid>
       <description></description>
     </item>
     
@@ -538,14 +517,6 @@
     </item>
     
     <item>
-      <title>Review of fuels for direct carbon fuel cells</title>
-      <link>http://localhost:1313/publication/rn-95/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Top-down patterning of Zeolitic Imidazolate Framework composite thin films by deep X-ray lithography</title>
       <link>http://localhost:1313/publication/rn-93/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
@@ -554,18 +525,50 @@
     </item>
     
     <item>
-      <title>Towards new opportunities for reuse, recycling and disposal of used reverse osmosis membranes</title>
-      <link>http://localhost:1313/publication/rn-92/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-92/</guid>
+      <title>The effects of aspect ratio of inorganic fillers on the structure and property of composite ion-exchange membranes</title>
+      <link>http://localhost:1313/publication/rn-97/</link>
+      <pubDate>Tue, 15 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost effective cation exchange membranes: A review</title>
+      <link>http://localhost:1313/publication/rn-94/</link>
+      <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of inorganic filler particle size on composite ion-exchange membranes for desalination</title>
+      <link>http://localhost:1313/publication/rn-99/</link>
+      <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of the change of soluble microbial products on membrane fouling in membrane bioreactor (MBR)</title>
       <link>http://localhost:1313/publication/rn-98/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preparation, Characterization and Performance of Templated Silica Membranes in Non-Osmotic Desalination</title>
+      <link>http://localhost:1313/publication/rn-101/</link>
+      <pubDate>Mon, 02 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preparation of porous ion-exchange membranes (IEMs) and their characterizations</title>
+      <link>http://localhost:1313/publication/rn-102/</link>
+      <pubDate>Wed, 19 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-102/</guid>
       <description></description>
     </item>
     
@@ -586,49 +589,33 @@
     </item>
     
     <item>
-      <title>Preparation of porous ion-exchange membranes (IEMs) and their characterizations</title>
-      <link>http://localhost:1313/publication/rn-102/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-102/</guid>
+      <title>Nafion-carbon nanocomposite membranes prepared using hydrothermal carbonization for proton-exchange-membrane fuel cells</title>
+      <link>http://localhost:1313/publication/rn-104/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-104/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Preparation, Characterization and Performance of Templated Silica Membranes in Non-Osmotic Desalination</title>
-      <link>http://localhost:1313/publication/rn-101/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-101/</guid>
+      <title>What happens inside a fuel cell? Developing an experimental functional map of fuel cell performance</title>
+      <link>http://localhost:1313/publication/rn-109/</link>
+      <pubDate>Fri, 20 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-109/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The effects of aspect ratio of inorganic fillers on the structure and property of composite ion-exchange membranes</title>
-      <link>http://localhost:1313/publication/rn-97/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The influence of inorganic filler particle size on composite ion-exchange membranes for desalination</title>
-      <link>http://localhost:1313/publication/rn-99/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-99/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Assessment of postcombustion carbon capture technologies for power generation</title>
-      <link>http://localhost:1313/publication/rn-107/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-107/</guid>
+      <title>Synthesis of composite ion-exchange membranes and their electrochemical properties for desalination applications</title>
+      <link>http://localhost:1313/publication/rn-106/</link>
+      <pubDate>Mon, 26 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-106/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functionalized mesoporous silica with very large pores for cellulase immobilization</title>
       <link>http://localhost:1313/publication/rn-108/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Apr 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rn-108/</guid>
       <description></description>
     </item>
@@ -642,34 +629,10 @@
     </item>
     
     <item>
-      <title>Nafion-carbon nanocomposite membranes prepared using hydrothermal carbonization for proton-exchange-membrane fuel cells</title>
-      <link>http://localhost:1313/publication/rn-104/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-104/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preparation, characterization and performance of templated silica membranes in non-osmotic desalination</title>
-      <link>http://localhost:1313/publication/rn-105/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-105/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Synthesis of composite ion-exchange membranes and their electrochemical properties for desalination applications</title>
-      <link>http://localhost:1313/publication/rn-106/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-106/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What happens inside a fuel cell? Developing an experimental functional map of fuel cell performance</title>
-      <link>http://localhost:1313/publication/rn-109/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-109/</guid>
+      <title>Assessment of postcombustion carbon capture technologies for power generation</title>
+      <link>http://localhost:1313/publication/rn-107/</link>
+      <pubDate>Wed, 16 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rn-107/</guid>
       <description></description>
     </item>
     

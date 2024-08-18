@@ -1,15 +1,16 @@
 ---
 title: 'The carbon sponge: Squeezing out captured carbon dioxide'
 authors:
-- B. P. Ladewig
+- admin
 - R. Lyndon
 - M. R. Hill
-date: '2014-01-01'
+date: '2014-04-10'
 publishDate: '2024-07-20T10:53:32.237538Z'
 publication_types:
 - article-journal
 publication: '*Carbon Management*'
 doi: 10.4155/cmt.13.74
+abstract: 
 links:
 - name: URL
   url: 

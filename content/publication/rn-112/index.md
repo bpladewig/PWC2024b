@@ -4,7 +4,7 @@ title: Hydrothermal stability of cobalt silica membranes in a water gas shift me
 authors:
 - S. Battersby
 - S. Smart
-- B. Ladewig
+- admin
 - S. Liu
 - M. C. Duke
 - V. Rudolph

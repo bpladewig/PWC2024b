@@ -5,9 +5,9 @@
     <link>http://localhost:1313/tags/renewable-energy/</link>
       <atom:link href="http://localhost:1313/tags/renewable-energy/index.xml" rel="self" type="application/rss+xml" />
     <description>Renewable Energy</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Renewable Energy</title>
       <link>http://localhost:1313/tags/renewable-energy/</link>
     </image>
@@ -15,9 +15,12 @@
     <item>
       <title>Luxembourg Hydrogen Valley</title>
       <link>http://localhost:1313/project/luxhyval/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/luxhyval/</guid>
-      <description>&lt;p&gt;End-to-end value chain in green hydrogen in Luxembourg. See external website for more details.&lt;/p&gt;</description>
+      <description>&lt;p&gt;End-to-end value chain in green hydrogen in Luxembourg. See our &lt;a href=&#34;https://luxhyval.eu&#34;&gt;project website&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Funding Acknowledgement&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;LuxHyVal is co-funded by the Clean Hydrogen Partnership.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;EU.png&#34; alt=&#34;Co-funded by the EU&#34;&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

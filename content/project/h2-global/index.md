@@ -8,6 +8,12 @@ tags:
   - Ammonia
 ---
 
-H2-Global is a project supported by the FNR, to work on electrochemical methods for green hydrogen production from a range of feedstocks. The project supports an extended scientific visit by Professor Manoj Neergat from IIT Bombay, working in Luxembourg for 12 months spread over a three year period. 
+H2-Global focusses on electrochemical methods for green hydrogen production from a range of feedstocks. The project supports an extended scientific visit by [Professor Manoj Neergat](https://www.ese.iitb.ac.in/faculty/manoj-neergat) from IIT Bombay, working in Luxembourg for 12 months spread over a three year period. 
+
+*Funding Acknowledgement*
+
+H2-Global is supported by the [Luxembourg National Research Fund](https://www.fnr.lu), Project 17548946, under the INTER Mobility programme.
+
+![FNR Logo](FNR_LOGO_RGB.png)
 
 <!--more-->

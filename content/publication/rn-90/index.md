@@ -2,7 +2,7 @@
 title: Recent Advances in Ion Exchange Membranes for Desalination Applications
 authors:
 - C. Klaysom
-- B. P. Ladewig
+- admin
 - G. Q. M. Lu
 - L. Wang
 date: '2013-01-01'

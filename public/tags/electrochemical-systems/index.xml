@@ -7,7 +7,7 @@
     <description>Electrochemical Systems</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Electrochemical Systems</title>
       <link>http://localhost:1313/tags/electrochemical-systems/</link>
     </image>
@@ -17,7 +17,10 @@
       <link>http://localhost:1313/project/h2-global/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/h2-global/</guid>
-      <description>&lt;p&gt;H2-Global is a project supported by the FNR, to work on electrochemical methods for green hydrogen production from a range of feedstocks. The project supports an extended scientific visit by Professor Manoj Neergat from IIT Bombay, working in Luxembourg for 12 months spread over a three year period.&lt;/p&gt;</description>
+      <description>&lt;p&gt;H2-Global focusses on electrochemical methods for green hydrogen production from a range of feedstocks. The project supports an extended scientific visit by &lt;a href=&#34;https://www.ese.iitb.ac.in/faculty/manoj-neergat&#34;&gt;Professor Manoj Neergat&lt;/a&gt; from IIT Bombay, working in Luxembourg for 12 months spread over a three year period.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Funding Acknowledgement&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;H2-Global is supported by the &lt;a href=&#34;https://www.fnr.lu&#34;&gt;Luxembourg National Research Fund&lt;/a&gt;, Project 17548946, under the INTER Mobility programme.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;FNR_LOGO_RGB.png&#34; alt=&#34;FNR Logo&#34;&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

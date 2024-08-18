@@ -4,14 +4,15 @@ title: 'Sodium borohydride treatment: A simple and effective process for the rem
 authors:
 - N. Nalajala
 - W. F. G. Saleha
-- B. P. Ladewig
+- admin
 - M. Neergat
-date: '2014-01-01'
+date: '2014-06-12'
 publishDate: '2024-07-20T10:53:32.356441Z'
 publication_types:
 - article-journal
 publication: '*Chemical Communications*'
 doi: 10.1039/c4cc02747g
+abstract: The inherent property of palladium to form hydride is effectively exploited for the removal of adsorbed stabilizer and capping agents. Formation of hydride on exposure of Pd nanoparticles to sodium-borohydride weakens the metal's interaction with the adsorbed-impurities and thus enables their easy removal without compromising the shape, size and dispersion.
 links:
 - name: URL
   url: 

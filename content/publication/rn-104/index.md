@@ -6,15 +6,16 @@ authors:
 - C. Wang
 - H. Zhang
 - C. M. Doherty
-- B. P. Ladewig
+- admin
 - A. J. Hill
 - H. Wang
-date: '2010-01-01'
+date: '2010-10-01'
 publishDate: '2024-07-20T10:53:32.004655Z'
 publication_types:
 - article-journal
 publication: '*Advanced Functional Materials*'
 doi: 10.1002/adfm.201001412
+abstract: Nafion–carbon (NC) composite membranes were prepared by hydrothermal treatment of Nafion membrane impregnated with glucose solution. The carbon loading of the NC membrane was tuned by controlling the hydrothermal carbonization time. X-ray diffraction, Fourier-transform infrared spectroscopy, scanning electron microscopy, thermogravimetric analysis, and positron annihilation lifetime spectroscopy were used to characterize plain Nafion and NC composite membranes. Nafion–carbon composite membranes exhibited better proton conductivity and reduced methanol permeability than those of the plain Nafion membrane. A single cell prepared with the NC composite membrane with a carbon loading of 3.6 wt% exhibited the highest cell performance. Compared with the cell performance of plain Nafion membrane, the maximum power density of the new cell improved by 31.7% for an H2/O2 fuel cell at room temperature, and by 44.0% for a direct methanol fuel cell at 60 °C.
 links:
 - name: URL
   url: 

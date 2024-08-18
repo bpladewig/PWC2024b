@@ -3,7 +3,7 @@ title: Preparation and characterization of sulfonated polyethersulfone for catio
   membranes
 authors:
 - C. Klaysom
-- B. P. Ladewig
+- admin
 - G. Q. M. Lu
 - L. Wang
 date: '2011-01-01'
@@ -12,6 +12,7 @@ publication_types:
 - article-journal
 publication: '*Journal of Membrane Science*'
 doi: 10.1016/j.memsci.2010.11.006
+abstract: 'Polyethersulfone (PES) was sulfonated by chlorosulfonic acid and then used as the polymer matrix for cation-exchange membranes (CEM). The sulfonation reaction was conducted at room temperature and the degree of sulfonation was easily controlled by varying the ratios of reaction reagents. The morphology, physical properties, electrochemical properties, mechanical and thermal stabilities of the membranes were characterized to evaluate the properties of sulfonated polyethersulfone (sPES) as a cation-exchange membrane. Membranes with 40% degree of sulfonation were found to have the optimal properties, with good water uptake, ion-exchange capacity (IEC: ∼1.44 mequiv g−1) and conductivity while maintaining excellent mechanical stability and thermal stability. These membranes can be considered as excellent candidates suitable for water desalination by electrodialysis.'
 links:
 - name: URL
   url: 

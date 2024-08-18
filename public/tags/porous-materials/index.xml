@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Porous Materials | Prof. Dr. Bradley P. Ladewig - Academic Website</title>
+    <link>http://localhost:1313/tags/porous-materials/</link>
+      <atom:link href="http://localhost:1313/tags/porous-materials/index.xml" rel="self" type="application/rss+xml" />
+    <description>Porous Materials</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Porous Materials</title>
+      <link>http://localhost:1313/tags/porous-materials/</link>
+    </image>
+    
+    <item>
+      <title>APM-ML</title>
+      <link>http://localhost:1313/project/apm-ml/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/apm-ml/</guid>
+      <description>&lt;p&gt;APM-ML is a collaborative project between the University of Luxembourg and the National University of Singapore. The two collaborating Professors are Prof. Bradley Ladewig and Prof. Dan Zhao. Mr Kris Helten is the PhD researcher working on the project and will spend a total of 12 months (across several placements) working in NUS Singapore developing advanced porous materials for hydrogen separations, supported by machine learning techniques.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Funding Acknowledgement&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;APM-ML is supported by the &lt;a href=&#34;https://www.fnr.lu&#34;&gt;Luxembourg National Research Fund&lt;/a&gt;, Project 17112420, under the AFR Bilateral programme.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;FNR_LOGO_RGB.png&#34; alt=&#34;FNR Logo&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
