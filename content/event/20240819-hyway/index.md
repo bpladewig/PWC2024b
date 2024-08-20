@@ -46,7 +46,7 @@ image:
 #    url: https://twitter.com/georgecushen
 #url_code: 'https://github.com'
 url_pdf: 'uploads/programme.pdf'
-#url_slides: 'https://slideshare.net'
+url_slides: 'uploads/20240820.pdf'
 #url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
@@ -54,7 +54,7 @@ url_pdf: 'uploads/programme.pdf'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "20240820"
+# slides: "uploads/20240820.pdf"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
