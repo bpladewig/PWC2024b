@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Prof. Dr. Bradley P. Ladewig - Academic Website</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ladewig.co/project/</link>
+      <atom:link href="https://ladewig.co/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://ladewig.co/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://ladewig.co/project/</link>
     </image>
     
     <item>
       <title>Luxembourg Hydrogen Valley</title>
-      <link>http://localhost:1313/project/luxhyval/</link>
+      <link>https://ladewig.co/project/luxhyval/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/luxhyval/</guid>
+      <guid>https://ladewig.co/project/luxhyval/</guid>
       <description>&lt;p&gt;End-to-end value chain in green hydrogen in Luxembourg. See our &lt;a href=&#34;https://luxhyval.eu&#34;&gt;project website&lt;/a&gt; for more details.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Funding Acknowledgement&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;LuxHyVal is co-funded by the Clean Hydrogen Partnership.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>APM-ML</title>
-      <link>http://localhost:1313/project/apm-ml/</link>
+      <link>https://ladewig.co/project/apm-ml/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/apm-ml/</guid>
+      <guid>https://ladewig.co/project/apm-ml/</guid>
       <description>&lt;p&gt;APM-ML is a collaborative project between the University of Luxembourg and the National University of Singapore. The two collaborating Professors are Prof. Bradley Ladewig and Prof. Dan Zhao. Mr Kris Helten is the PhD researcher working on the project and will spend a total of 12 months (across several placements) working in NUS Singapore developing advanced porous materials for hydrogen separations, supported by machine learning techniques.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Funding Acknowledgement&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;APM-ML is supported by the &lt;a href=&#34;https://www.fnr.lu&#34;&gt;Luxembourg National Research Fund&lt;/a&gt;, Project 17112420, under the AFR Bilateral programme.&lt;/p&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>H2-Global</title>
-      <link>http://localhost:1313/project/h2-global/</link>
+      <link>https://ladewig.co/project/h2-global/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/h2-global/</guid>
+      <guid>https://ladewig.co/project/h2-global/</guid>
       <description>&lt;p&gt;H2-Global focusses on electrochemical methods for green hydrogen production from a range of feedstocks. The project supports an extended scientific visit by &lt;a href=&#34;https://www.ese.iitb.ac.in/faculty/manoj-neergat&#34;&gt;Professor Manoj Neergat&lt;/a&gt; from IIT Bombay, working in Luxembourg for 12 months spread over a three year period.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Funding Acknowledgement&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;H2-Global is supported by the &lt;a href=&#34;https://www.fnr.lu&#34;&gt;Luxembourg National Research Fund&lt;/a&gt;, Project 17548946, under the INTER Mobility programme.&lt;/p&gt;
@@ -47,9 +47,9 @@
     
     <item>
       <title>Hydrogen from Waste Plastic and Biomass</title>
-      <link>http://localhost:1313/project/hyway/</link>
+      <link>https://ladewig.co/project/hyway/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/hyway/</guid>
+      <guid>https://ladewig.co/project/hyway/</guid>
       <description>&lt;p&gt;HyWay is a Marie Sklowdowska-Curie Staff Exchange project, coordinated by Prof. Bradley Ladewig. More details can be found on the dedicated &lt;a href=&#34;https://hywayse.eu&#34;&gt;project website&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Funding Acknowledgement&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;HyWay is co-funded by the European Union under the Marie Sklowdowska-Curie Staff Exchange programme, project number: 101130009.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pyrolysis | Prof. Dr. Bradley P. Ladewig - Academic Website</title>
-    <link>http://localhost:1313/tags/pyrolysis/</link>
-      <atom:link href="http://localhost:1313/tags/pyrolysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ladewig.co/tags/pyrolysis/</link>
+      <atom:link href="https://ladewig.co/tags/pyrolysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Pyrolysis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://ladewig.co/media/icon_hu7729264130191091259.png</url>
       <title>Pyrolysis</title>
-      <link>http://localhost:1313/tags/pyrolysis/</link>
+      <link>https://ladewig.co/tags/pyrolysis/</link>
     </image>
     
     <item>
       <title>Hydrogen from Waste Plastic and Biomass</title>
-      <link>http://localhost:1313/project/hyway/</link>
+      <link>https://ladewig.co/project/hyway/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/hyway/</guid>
+      <guid>https://ladewig.co/project/hyway/</guid>
       <description>&lt;p&gt;HyWay is a Marie Sklowdowska-Curie Staff Exchange project, coordinated by Prof. Bradley Ladewig. More details can be found on the dedicated &lt;a href=&#34;https://hywayse.eu&#34;&gt;project website&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Funding Acknowledgement&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;HyWay is co-funded by the European Union under the Marie Sklowdowska-Curie Staff Exchange programme, project number: 101130009.&lt;/p&gt;

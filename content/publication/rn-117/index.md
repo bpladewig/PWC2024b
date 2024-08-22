@@ -1,11 +1,11 @@
 ---
 title: Worth their salt
 authors:
-- B. Ladewig
+- admin
 - C. Klaysom
 - L. Wang
 - M. Lu
-date: '2008-01-01'
+date: '2008-11-01'
 publishDate: '2024-07-20T10:53:32.193851Z'
 publication_types:
 - article-journal

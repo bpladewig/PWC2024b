@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Renewable Energy | Prof. Dr. Bradley P. Ladewig - Academic Website</title>
-    <link>http://localhost:1313/tags/renewable-energy/</link>
-      <atom:link href="http://localhost:1313/tags/renewable-energy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ladewig.co/tags/renewable-energy/</link>
+      <atom:link href="https://ladewig.co/tags/renewable-energy/index.xml" rel="self" type="application/rss+xml" />
     <description>Renewable Energy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://ladewig.co/media/icon_hu7729264130191091259.png</url>
       <title>Renewable Energy</title>
-      <link>http://localhost:1313/tags/renewable-energy/</link>
+      <link>https://ladewig.co/tags/renewable-energy/</link>
     </image>
     
     <item>
       <title>Luxembourg Hydrogen Valley</title>
-      <link>http://localhost:1313/project/luxhyval/</link>
+      <link>https://ladewig.co/project/luxhyval/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/luxhyval/</guid>
+      <guid>https://ladewig.co/project/luxhyval/</guid>
       <description>&lt;p&gt;End-to-end value chain in green hydrogen in Luxembourg. See our &lt;a href=&#34;https://luxhyval.eu&#34;&gt;project website&lt;/a&gt; for more details.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Funding Acknowledgement&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;LuxHyVal is co-funded by the Clean Hydrogen Partnership.&lt;/p&gt;

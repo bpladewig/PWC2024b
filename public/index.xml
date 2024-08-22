@@ -2,53 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prof. Dr. Bradley P. Ladewig - Academic Website</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ladewig.co/</link>
+      <atom:link href="https://ladewig.co/index.xml" rel="self" type="application/rss+xml" />
     <description>Prof. Dr. Bradley P. Ladewig - Academic Website</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://ladewig.co/media/icon_hu7729264130191091259.png</url>
       <title>Prof. Dr. Bradley P. Ladewig - Academic Website</title>
-      <link>http://localhost:1313/</link>
+      <link>https://ladewig.co/</link>
     </image>
     
     <item>
       <title>HyWay Consortium Meeting, Workshop &amp; Training</title>
-      <link>http://localhost:1313/event/20240819-hyway/</link>
+      <link>https://ladewig.co/event/20240819-hyway/</link>
       <pubDate>Mon, 19 Aug 2024 09:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/20240819-hyway/</guid>
+      <guid>https://ladewig.co/event/20240819-hyway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facile hydrophobic modification strategy on hydrophilic metal organic frameworks for improved toluene capture</title>
-      <link>http://localhost:1313/publication/rn-43/</link>
+      <link>https://ladewig.co/publication/rn-43/</link>
       <pubDate>Sat, 20 Jul 2024 10:53:32 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-43/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preparation of new composite membranes for water desalination using electrodialysis</title>
-      <link>http://localhost:1313/publication/rn-116/</link>
-      <pubDate>Sat, 20 Jul 2024 10:53:32 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-116/</guid>
+      <guid>https://ladewig.co/publication/rn-43/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ramping-up European Hydrogen Economy</title>
-      <link>http://localhost:1313/event/20240712-eib/</link>
+      <link>https://ladewig.co/event/20240712-eib/</link>
       <pubDate>Fri, 12 Jul 2024 13:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/20240712-eib/</guid>
+      <guid>https://ladewig.co/event/20240712-eib/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Luxembourg Hydrogen Valley Public Launch</title>
-      <link>http://localhost:1313/event/20240617-luxhyval/</link>
+      <link>https://ladewig.co/event/20240617-luxhyval/</link>
       <pubDate>Mon, 17 Jun 2024 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/20240617-luxhyval/</guid>
+      <guid>https://ladewig.co/event/20240617-luxhyval/</guid>
       <description>
 
 
@@ -67,7 +59,7 @@
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;http://localhost:1313/media/luxhyval_short.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://ladewig.co/media/luxhyval_short.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 
 </description>
@@ -75,25 +67,25 @@
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://ladewig.co/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://ladewig.co/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extraction of the intrinsic rate constant for a photocyclization reaction in capillary microreactors using a simplified reactor model</title>
-      <link>http://localhost:1313/publication/rn-24/</link>
+      <link>https://ladewig.co/publication/rn-24/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-24/</guid>
+      <guid>https://ladewig.co/publication/rn-24/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Luxembourg Hydrogen Valley</title>
-      <link>http://localhost:1313/project/luxhyval/</link>
+      <link>https://ladewig.co/project/luxhyval/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/luxhyval/</guid>
+      <guid>https://ladewig.co/project/luxhyval/</guid>
       <description>&lt;p&gt;End-to-end value chain in green hydrogen in Luxembourg. See our &lt;a href=&#34;https://luxhyval.eu&#34;&gt;project website&lt;/a&gt; for more details.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Funding Acknowledgement&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;LuxHyVal is co-funded by the Clean Hydrogen Partnership.&lt;/p&gt;
@@ -102,17 +94,17 @@
     
     <item>
       <title>Potential application of hybrid forward osmosis – Membrane distillation (FO-MD) system for various water treatment processes</title>
-      <link>http://localhost:1313/publication/rn-25/</link>
+      <link>https://ladewig.co/publication/rn-25/</link>
       <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-25/</guid>
+      <guid>https://ladewig.co/publication/rn-25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1313/post/get-started/</link>
+      <link>https://ladewig.co/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/get-started/</guid>
+      <guid>https://ladewig.co/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -196,9 +188,9 @@
     
     <item>
       <title>APM-ML</title>
-      <link>http://localhost:1313/project/apm-ml/</link>
+      <link>https://ladewig.co/project/apm-ml/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/apm-ml/</guid>
+      <guid>https://ladewig.co/project/apm-ml/</guid>
       <description>&lt;p&gt;APM-ML is a collaborative project between the University of Luxembourg and the National University of Singapore. The two collaborating Professors are Prof. Bradley Ladewig and Prof. Dan Zhao. Mr Kris Helten is the PhD researcher working on the project and will spend a total of 12 months (across several placements) working in NUS Singapore developing advanced porous materials for hydrogen separations, supported by machine learning techniques.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Funding Acknowledgement&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;APM-ML is supported by the &lt;a href=&#34;https://www.fnr.lu&#34;&gt;Luxembourg National Research Fund&lt;/a&gt;, Project 17112420, under the AFR Bilateral programme.&lt;/p&gt;
@@ -207,9 +199,9 @@
     
     <item>
       <title>H2-Global</title>
-      <link>http://localhost:1313/project/h2-global/</link>
+      <link>https://ladewig.co/project/h2-global/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/h2-global/</guid>
+      <guid>https://ladewig.co/project/h2-global/</guid>
       <description>&lt;p&gt;H2-Global focusses on electrochemical methods for green hydrogen production from a range of feedstocks. The project supports an extended scientific visit by &lt;a href=&#34;https://www.ese.iitb.ac.in/faculty/manoj-neergat&#34;&gt;Professor Manoj Neergat&lt;/a&gt; from IIT Bombay, working in Luxembourg for 12 months spread over a three year period.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Funding Acknowledgement&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;H2-Global is supported by the &lt;a href=&#34;https://www.fnr.lu&#34;&gt;Luxembourg National Research Fund&lt;/a&gt;, Project 17548946, under the INTER Mobility programme.&lt;/p&gt;
@@ -218,9 +210,9 @@
     
     <item>
       <title>Hydrogen from Waste Plastic and Biomass</title>
-      <link>http://localhost:1313/project/hyway/</link>
+      <link>https://ladewig.co/project/hyway/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/hyway/</guid>
+      <guid>https://ladewig.co/project/hyway/</guid>
       <description>&lt;p&gt;HyWay is a Marie Sklowdowska-Curie Staff Exchange project, coordinated by Prof. Bradley Ladewig. More details can be found on the dedicated &lt;a href=&#34;https://hywayse.eu&#34;&gt;project website&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Funding Acknowledgement&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;HyWay is co-funded by the European Union under the Marie Sklowdowska-Curie Staff Exchange programme, project number: 101130009.&lt;/p&gt;
@@ -229,9 +221,9 @@
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:1313/post/second-brain/</link>
+      <link>https://ladewig.co/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/second-brain/</guid>
+      <guid>https://ladewig.co/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -333,9 +325,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:1313/post/data-visualization/</link>
+      <link>https://ladewig.co/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/data-visualization/</guid>
+      <guid>https://ladewig.co/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -346,7 +338,7 @@
 
 
 
-&lt;div id=&#34;chart-894316572&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-169782453&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -364,7 +356,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-894316572&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-169782453&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -539,9 +531,9 @@ Crash --&amp;gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:1313/post/teach-courses/</link>
+      <link>https://ladewig.co/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/teach-courses/</guid>
+      <guid>https://ladewig.co/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -594,7 +586,7 @@ Crash --&amp;gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://ladewig.co/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -653,17 +645,17 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>https://ladewig.co/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>https://ladewig.co/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/teaching/energy-systems-i/</link>
+      <link>https://ladewig.co/teaching/energy-systems-i/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/energy-systems-i/</guid>
+      <guid>https://ladewig.co/teaching/energy-systems-i/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -710,7 +702,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/energy-systems-i/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://ladewig.co/teaching/energy-systems-i/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -787,9 +779,9 @@ data.head()
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/teaching/energy-systems-ii/</link>
+      <link>https://ladewig.co/teaching/energy-systems-ii/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/energy-systems-ii/</guid>
+      <guid>https://ladewig.co/teaching/energy-systems-ii/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -836,7 +828,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/energy-systems-ii/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://ladewig.co/teaching/energy-systems-ii/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -913,9 +905,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:1313/teaching/hydrogen-systems/</link>
+      <link>https://ladewig.co/teaching/hydrogen-systems/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/hydrogen-systems/</guid>
+      <guid>https://ladewig.co/teaching/hydrogen-systems/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -962,7 +954,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/hydrogen-systems/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://ladewig.co/teaching/hydrogen-systems/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1039,9 +1031,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:1313/teaching/introduction-to-project-work/</link>
+      <link>https://ladewig.co/teaching/introduction-to-project-work/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/introduction-to-project-work/</guid>
+      <guid>https://ladewig.co/teaching/introduction-to-project-work/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -1088,7 +1080,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/introduction-to-project-work/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://ladewig.co/teaching/introduction-to-project-work/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1165,9 +1157,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:1313/post/project-management/</link>
+      <link>https://ladewig.co/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/project-management/</guid>
+      <guid>https://ladewig.co/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -1240,185 +1232,185 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Functional role of B-site substitution on the reactivity of CaMFeO3 (M = Cu, Mo, Co) perovskite catalysts in heterogeneous Fenton-like degradation of organic pollutant</title>
-      <link>http://localhost:1313/publication/rn-26/</link>
+      <link>https://ladewig.co/publication/rn-26/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-26/</guid>
+      <guid>https://ladewig.co/publication/rn-26/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photoresponsive Polymer and Polymer Composite Membranes for Gas Separation</title>
-      <link>http://localhost:1313/publication/rn-27/</link>
+      <link>https://ladewig.co/publication/rn-27/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-27/</guid>
+      <guid>https://ladewig.co/publication/rn-27/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Natural and recycled materials for sustainable membrane modification: Recent trends and prospects</title>
-      <link>http://localhost:1313/publication/rn-28/</link>
+      <link>https://ladewig.co/publication/rn-28/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-28/</guid>
+      <guid>https://ladewig.co/publication/rn-28/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Chemical and Biochemical Engineers Excited about Additive Manufacturing</title>
-      <link>http://localhost:1313/publication/rn-29/</link>
+      <link>https://ladewig.co/publication/rn-29/</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-29/</guid>
+      <guid>https://ladewig.co/publication/rn-29/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fabrication of MIL-101-polydimethylsiloxane composites for environmental toluene abatement from humid air</title>
-      <link>http://localhost:1313/publication/rn-31/</link>
+      <link>https://ladewig.co/publication/rn-31/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-31/</guid>
+      <guid>https://ladewig.co/publication/rn-31/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metal-Organic Framework MIL-68(In)-NH2 on the Membrane Test Bench for Dye Removal and Carbon Capture</title>
-      <link>http://localhost:1313/publication/rn-32/</link>
+      <link>https://ladewig.co/publication/rn-32/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-32/</guid>
+      <guid>https://ladewig.co/publication/rn-32/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigation of mass transport processes in a microstructured membrane reactor for the direct synthesis of hydrogen peroxide</title>
-      <link>http://localhost:1313/publication/rn-30/</link>
+      <link>https://ladewig.co/publication/rn-30/</link>
       <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-30/</guid>
+      <guid>https://ladewig.co/publication/rn-30/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solvent-induced enantioselectivity reversal in a chiral metal organic framework</title>
-      <link>http://localhost:1313/publication/rn-36/</link>
+      <link>https://ladewig.co/publication/rn-36/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-36/</guid>
+      <guid>https://ladewig.co/publication/rn-36/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Long-term stable metal organic framework (MOF) based mixed matrix membranes for ultrafiltration</title>
-      <link>http://localhost:1313/publication/rn-34/</link>
+      <link>https://ladewig.co/publication/rn-34/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-34/</guid>
+      <guid>https://ladewig.co/publication/rn-34/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In situ sensors for flow reactors-A review</title>
-      <link>http://localhost:1313/publication/rn-35/</link>
+      <link>https://ladewig.co/publication/rn-35/</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-35/</guid>
+      <guid>https://ladewig.co/publication/rn-35/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nafion membranes modified by cationic cyclodextrin derivatives for enantioselective separation</title>
-      <link>http://localhost:1313/publication/rn-37/</link>
+      <link>https://ladewig.co/publication/rn-37/</link>
       <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-37/</guid>
+      <guid>https://ladewig.co/publication/rn-37/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A comprehensive review on the synthesis and applications of ion exchange membranes</title>
-      <link>http://localhost:1313/publication/rn-33/</link>
+      <link>https://ladewig.co/publication/rn-33/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-33/</guid>
+      <guid>https://ladewig.co/publication/rn-33/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polymer-assisted modification of metal-organic framework MIL-96 (Al): influence of HPAM concentration on particle size, crystal morphology and removal of harmful environmental pollutant PFOA</title>
-      <link>http://localhost:1313/publication/rn-38/</link>
+      <link>https://ladewig.co/publication/rn-38/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-38/</guid>
+      <guid>https://ladewig.co/publication/rn-38/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can metal organic frameworks outperform adsorptive removal of harmful phenolic compound 2-chlorophenol by activated carbon?</title>
-      <link>http://localhost:1313/publication/rn-40/</link>
+      <link>https://ladewig.co/publication/rn-40/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-40/</guid>
+      <guid>https://ladewig.co/publication/rn-40/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A case study of toluene VOC removal by PDMS PDMS-modified metal organic framework adsorbent</title>
-      <link>http://localhost:1313/publication/rn-42/</link>
+      <link>https://ladewig.co/publication/rn-42/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-42/</guid>
+      <guid>https://ladewig.co/publication/rn-42/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A case study on toluene removal by PDMS-modified metal organic frameworks compared to activated carbon</title>
-      <link>http://localhost:1313/publication/rn-44/</link>
+      <link>https://ladewig.co/publication/rn-44/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-44/</guid>
+      <guid>https://ladewig.co/publication/rn-44/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A review on emerging organic-containing microporous material membranes for carbon capture and separation</title>
-      <link>http://localhost:1313/publication/rn-39/</link>
+      <link>https://ladewig.co/publication/rn-39/</link>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-39/</guid>
+      <guid>https://ladewig.co/publication/rn-39/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systematic screening of DMOF-1 with NH2, NO2, Br and azobenzene functionalities for elucidation of carbon dioxide and nitrogen separation properties</title>
-      <link>http://localhost:1313/publication/rn-45/</link>
+      <link>https://ladewig.co/publication/rn-45/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-45/</guid>
+      <guid>https://ladewig.co/publication/rn-45/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Green synthesis of polymeric membranes: Recent advances and future prospects</title>
-      <link>http://localhost:1313/publication/rn-41/</link>
+      <link>https://ladewig.co/publication/rn-41/</link>
       <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-41/</guid>
+      <guid>https://ladewig.co/publication/rn-41/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Upcycling a plastic cup: One-pot synthesis of lactate containing metal organic frameworks from polylactic acid</title>
-      <link>http://localhost:1313/publication/rn-52/</link>
+      <link>https://ladewig.co/publication/rn-52/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-52/</guid>
+      <guid>https://ladewig.co/publication/rn-52/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An insight into the effect of azobenzene functionalities studied in UiO-66 frameworks for low energy CO2 capture and CO2/N2 membrane separation</title>
-      <link>http://localhost:1313/publication/rn-51/</link>
+      <link>https://ladewig.co/publication/rn-51/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-51/</guid>
+      <guid>https://ladewig.co/publication/rn-51/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Multifunctional, Charge-Neutral, Chiral Octahedral M12L12 Cage</title>
-      <link>http://localhost:1313/publication/rn-47/</link>
+      <link>https://ladewig.co/publication/rn-47/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-47/</guid>
+      <guid>https://ladewig.co/publication/rn-47/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Slides</title>
-      <link>http://localhost:1313/slides/example/</link>
+      <link>https://ladewig.co/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/slides/example/</guid>
+      <guid>https://ladewig.co/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -1495,577 +1487,585 @@ $$&lt;hr&gt;
     
     <item>
       <title>Gas permeation through single-crystal ZIF-8 membranes</title>
-      <link>http://localhost:1313/publication/rn-49/</link>
+      <link>https://ladewig.co/publication/rn-49/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-49/</guid>
+      <guid>https://ladewig.co/publication/rn-49/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High performance cation exchange membranes synthesized: Via in situ emulsion polymerization without organic solvents and corrosive acids</title>
-      <link>http://localhost:1313/publication/rn-50/</link>
+      <link>https://ladewig.co/publication/rn-50/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-50/</guid>
+      <guid>https://ladewig.co/publication/rn-50/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigation of Azo-COP-2 as a Photoresponsive Low-Energy CO2 Adsorbent and Porous Filler in Mixed Matrix Membranes for CO2/N2 Separation</title>
-      <link>http://localhost:1313/publication/rn-48/</link>
+      <link>https://ladewig.co/publication/rn-48/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-48/</guid>
+      <guid>https://ladewig.co/publication/rn-48/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metal-organic frameworks (MOFs) and MOF-derived porous carbon materials for sustainable adsorptive wastewater treatment</title>
-      <link>http://localhost:1313/publication/rn-46/</link>
+      <link>https://ladewig.co/publication/rn-46/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-46/</guid>
+      <guid>https://ladewig.co/publication/rn-46/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Azo-DMOF-1 MOF as a Photoresponsive Low-Energy CO2 Adsorbent and Its Exceptional CO2/N2 Separation Performance in Mixed Matrix Membranes</title>
-      <link>http://localhost:1313/publication/rn-54/</link>
+      <link>https://ladewig.co/publication/rn-54/</link>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-54/</guid>
+      <guid>https://ladewig.co/publication/rn-54/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A scientometric study of the research on ion exchange membranes</title>
-      <link>http://localhost:1313/publication/rn-57/</link>
+      <link>https://ladewig.co/publication/rn-57/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-57/</guid>
+      <guid>https://ladewig.co/publication/rn-57/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A review of the synthesis and characterization of anion exchange membranes</title>
-      <link>http://localhost:1313/publication/rn-55/</link>
+      <link>https://ladewig.co/publication/rn-55/</link>
       <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-55/</guid>
+      <guid>https://ladewig.co/publication/rn-55/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matrimid-JUC-62 and Matrimid-PCN-250 mixed matrix membranes displaying light-responsive gas separation and beneficial ageing characteristics for CO2/N2 separation</title>
-      <link>http://localhost:1313/publication/rn-53/</link>
+      <link>https://ladewig.co/publication/rn-53/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-53/</guid>
+      <guid>https://ladewig.co/publication/rn-53/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A new and highly robust light-responsive Azo-UiO-66 for highly selective and low energy post-combustion CO2 capture and its application in a mixed matrix membrane for CO2/N2 separation</title>
-      <link>http://localhost:1313/publication/rn-56/</link>
+      <link>https://ladewig.co/publication/rn-56/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-56/</guid>
+      <guid>https://ladewig.co/publication/rn-56/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Missing Linker Defects in a Homochiral Metal-Organic Framework: Tuning the Chiral Separation Capacity</title>
-      <link>http://localhost:1313/publication/rn-58/</link>
+      <link>https://ladewig.co/publication/rn-58/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-58/</guid>
+      <guid>https://ladewig.co/publication/rn-58/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic photo-switching in light-responsive JUC-62 for CO 2 capture</title>
-      <link>http://localhost:1313/publication/rn-59/</link>
+      <link>https://ladewig.co/publication/rn-59/</link>
       <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-59/</guid>
+      <guid>https://ladewig.co/publication/rn-59/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High Ion-Exchange Capacity Semihomogeneous Cation Exchange Membranes Prepared via a Novel Polymerization and Sulfonation Approach in Porous Polypropylene</title>
-      <link>http://localhost:1313/publication/rn-60/</link>
+      <link>https://ladewig.co/publication/rn-60/</link>
       <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-60/</guid>
+      <guid>https://ladewig.co/publication/rn-60/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A review of reverse osmosis membrane fouling and control strategies</title>
-      <link>http://localhost:1313/publication/rn-61/</link>
+      <link>https://ladewig.co/publication/rn-61/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-61/</guid>
+      <guid>https://ladewig.co/publication/rn-61/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highly fouling-resistant brominated poly(phenylene oxide) membranes using surface grafted diethylenetriamine</title>
-      <link>http://localhost:1313/publication/rn-66/</link>
+      <link>https://ladewig.co/publication/rn-66/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-66/</guid>
+      <guid>https://ladewig.co/publication/rn-66/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dielectric relaxations in phosphoric acid-doped poly(2,5-benzimidazole) and its composite membranes</title>
-      <link>http://localhost:1313/publication/rn-63/</link>
+      <link>https://ladewig.co/publication/rn-63/</link>
       <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-63/</guid>
+      <guid>https://ladewig.co/publication/rn-63/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Broadband dielectric spectroscopy of Nafion-117, sulfonated polysulfone (sPSF) and sulfonated polyether ketone (sPEK) membranes</title>
-      <link>http://localhost:1313/publication/rn-64/</link>
+      <link>https://ladewig.co/publication/rn-64/</link>
       <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-64/</guid>
+      <guid>https://ladewig.co/publication/rn-64/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple fabrication of zeolitic imidazolate framework ZIF-8/polymer composite beads by phase inversion method for efficient oil sorption</title>
-      <link>http://localhost:1313/publication/rn-65/</link>
+      <link>https://ladewig.co/publication/rn-65/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-65/</guid>
+      <guid>https://ladewig.co/publication/rn-65/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post-Synthetic Annealing: Linker Self-Exchange in UiO-66 and Its Effect on Polymer-Metal Organic Framework Interaction</title>
-      <link>http://localhost:1313/publication/rn-62/</link>
+      <link>https://ladewig.co/publication/rn-62/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-62/</guid>
+      <guid>https://ladewig.co/publication/rn-62/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of carbonization temperature on adsorption property of ZIF-8 derived nanoporous carbon for water treatment</title>
-      <link>http://localhost:1313/publication/rn-67/</link>
+      <link>https://ladewig.co/publication/rn-67/</link>
       <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-67/</guid>
+      <guid>https://ladewig.co/publication/rn-67/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Physical aging in glassy mixed matrix membranes; Tuning particle interaction for mechanically robust nanocomposite films</title>
-      <link>http://localhost:1313/publication/rn-69/</link>
+      <link>https://ladewig.co/publication/rn-69/</link>
       <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-69/</guid>
+      <guid>https://ladewig.co/publication/rn-69/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Use of vibratory shear enhanced processing to treat magnetic ion exchange concentrate: A techno-economic analysis</title>
-      <link>http://localhost:1313/publication/rn-68/</link>
+      <link>https://ladewig.co/publication/rn-68/</link>
       <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-68/</guid>
+      <guid>https://ladewig.co/publication/rn-68/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visible Light-Triggered Capture and Release of CO2 from Stable Metal Organic Frameworks</title>
-      <link>http://localhost:1313/publication/rn-70/</link>
+      <link>https://ladewig.co/publication/rn-70/</link>
       <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-70/</guid>
+      <guid>https://ladewig.co/publication/rn-70/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poly(arylene ether sulfone) copolymers as binders for capacitive deionization activated carbon electrodes</title>
-      <link>http://localhost:1313/publication/rn-78/</link>
+      <link>https://ladewig.co/publication/rn-78/</link>
       <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-78/</guid>
+      <guid>https://ladewig.co/publication/rn-78/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tunable Photodynamic Switching of DArE@PAF-1 for Carbon Capture</title>
-      <link>http://localhost:1313/publication/rn-71/</link>
+      <link>https://ladewig.co/publication/rn-71/</link>
       <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-71/</guid>
+      <guid>https://ladewig.co/publication/rn-71/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance of a vibratory shear membrane filtration system during the treatment of magnetic ion exchange process concentrate</title>
-      <link>http://localhost:1313/publication/rn-72/</link>
+      <link>https://ladewig.co/publication/rn-72/</link>
       <pubDate>Tue, 10 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-72/</guid>
+      <guid>https://ladewig.co/publication/rn-72/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthesis and characterisation of superhydrophilic conductive heterogeneous PANI/PVDF anion-exchange membranes</title>
-      <link>http://localhost:1313/publication/rn-73/</link>
+      <link>https://ladewig.co/publication/rn-73/</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-73/</guid>
+      <guid>https://ladewig.co/publication/rn-73/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post-synthetic Ti Exchanged UiO-66 Metal-Organic Frameworks that Deliver Exceptional Gas Permeability in Mixed Matrix Membranes</title>
-      <link>http://localhost:1313/publication/rn-77/</link>
+      <link>https://ladewig.co/publication/rn-77/</link>
       <pubDate>Fri, 16 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-77/</guid>
+      <guid>https://ladewig.co/publication/rn-77/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Key Materials for Low-Temperature Fuel Cells: An Introduction</title>
-      <link>http://localhost:1313/publication/rn-76/</link>
+      <link>https://ladewig.co/publication/rn-76/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-76/</guid>
+      <guid>https://ladewig.co/publication/rn-76/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Materials for Low-Temperature Fuel Cells</title>
-      <link>http://localhost:1313/publication/rn-75/</link>
+      <link>https://ladewig.co/publication/rn-75/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-75/</guid>
+      <guid>https://ladewig.co/publication/rn-75/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Membranes for Direct Methanol Fuel Cells</title>
-      <link>http://localhost:1313/publication/rn-74/</link>
+      <link>https://ladewig.co/publication/rn-74/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-74/</guid>
+      <guid>https://ladewig.co/publication/rn-74/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review of high recovery concentrate management options</title>
-      <link>http://localhost:1313/publication/rn-83/</link>
+      <link>https://ladewig.co/publication/rn-83/</link>
       <pubDate>Thu, 28 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-83/</guid>
+      <guid>https://ladewig.co/publication/rn-83/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sodium borohydride treatment: A simple and effective process for the removal of stabilizer and capping agents from shape-controlled palladium nanoparticles</title>
-      <link>http://localhost:1313/publication/rn-79/</link>
+      <link>https://ladewig.co/publication/rn-79/</link>
       <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-79/</guid>
+      <guid>https://ladewig.co/publication/rn-79/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cation exchange copolymer enhanced electrosorption</title>
-      <link>http://localhost:1313/publication/rn-80/</link>
+      <link>https://ladewig.co/publication/rn-80/</link>
       <pubDate>Tue, 13 May 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-80/</guid>
+      <guid>https://ladewig.co/publication/rn-80/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The carbon sponge: Squeezing out captured carbon dioxide</title>
-      <link>http://localhost:1313/publication/rn-82/</link>
+      <link>https://ladewig.co/publication/rn-82/</link>
       <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-82/</guid>
+      <guid>https://ladewig.co/publication/rn-82/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct carbon fuel cell operation on brown coal</title>
-      <link>http://localhost:1313/publication/rn-81/</link>
+      <link>https://ladewig.co/publication/rn-81/</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-81/</guid>
+      <guid>https://ladewig.co/publication/rn-81/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gold nanoparticle-functionalized thread as a substrate for SERS study of analytes both bound and unbound to gold</title>
-      <link>http://localhost:1313/publication/rn-84/</link>
+      <link>https://ladewig.co/publication/rn-84/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-84/</guid>
+      <guid>https://ladewig.co/publication/rn-84/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial control of zeolitic imidazolate framework growth on flexible substrates</title>
-      <link>http://localhost:1313/publication/rn-85/</link>
+      <link>https://ladewig.co/publication/rn-85/</link>
       <pubDate>Thu, 29 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-85/</guid>
+      <guid>https://ladewig.co/publication/rn-85/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effects of sulfonated poly(ether ether ketone) ion exchange preparation conditions on membrane properties</title>
-      <link>http://localhost:1313/publication/rn-88/</link>
+      <link>https://ladewig.co/publication/rn-88/</link>
       <pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-88/</guid>
+      <guid>https://ladewig.co/publication/rn-88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Side-chain sulfonated copolymer cation exchange membranes for electro-driven desalination applications</title>
-      <link>http://localhost:1313/publication/rn-86/</link>
+      <link>https://ladewig.co/publication/rn-86/</link>
       <pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-86/</guid>
+      <guid>https://ladewig.co/publication/rn-86/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Removal of surfactant and capping agent from Pd nanocubes (Pd-NCs) using tert-butylamine: Its effect on electrochemical characteristics</title>
-      <link>http://localhost:1313/publication/rn-87/</link>
+      <link>https://ladewig.co/publication/rn-87/</link>
       <pubDate>Fri, 17 May 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-87/</guid>
+      <guid>https://ladewig.co/publication/rn-87/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic photo-switching in metal-organic frameworks as a route to low-energy carbon dioxide capture and release</title>
-      <link>http://localhost:1313/publication/rn-89/</link>
+      <link>https://ladewig.co/publication/rn-89/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-89/</guid>
+      <guid>https://ladewig.co/publication/rn-89/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Advances in Ion Exchange Membranes for Desalination Applications</title>
-      <link>http://localhost:1313/publication/rn-90/</link>
+      <link>https://ladewig.co/publication/rn-90/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-90/</guid>
+      <guid>https://ladewig.co/publication/rn-90/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards new opportunities for reuse, recycling and disposal of used reverse osmosis membranes</title>
-      <link>http://localhost:1313/publication/rn-92/</link>
+      <link>https://ladewig.co/publication/rn-92/</link>
       <pubDate>Thu, 21 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-92/</guid>
+      <guid>https://ladewig.co/publication/rn-92/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review of fuels for direct carbon fuel cells</title>
-      <link>http://localhost:1313/publication/rn-95/</link>
+      <link>https://ladewig.co/publication/rn-95/</link>
       <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-95/</guid>
+      <guid>https://ladewig.co/publication/rn-95/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fabrication of polyethersulfone-mesoporous silica nanocomposite ultrafiltration membranes with antifouling properties</title>
-      <link>http://localhost:1313/publication/rn-91/</link>
+      <link>https://ladewig.co/publication/rn-91/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-91/</guid>
+      <guid>https://ladewig.co/publication/rn-91/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feasibility of zeolitic imidazolate framework membranes for clean energy applications</title>
-      <link>http://localhost:1313/publication/rn-96/</link>
+      <link>https://ladewig.co/publication/rn-96/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-96/</guid>
+      <guid>https://ladewig.co/publication/rn-96/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Top-down patterning of Zeolitic Imidazolate Framework composite thin films by deep X-ray lithography</title>
-      <link>http://localhost:1313/publication/rn-93/</link>
+      <link>https://ladewig.co/publication/rn-93/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-93/</guid>
+      <guid>https://ladewig.co/publication/rn-93/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effects of aspect ratio of inorganic fillers on the structure and property of composite ion-exchange membranes</title>
-      <link>http://localhost:1313/publication/rn-97/</link>
+      <link>https://ladewig.co/publication/rn-97/</link>
       <pubDate>Tue, 15 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-97/</guid>
+      <guid>https://ladewig.co/publication/rn-97/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cost effective cation exchange membranes: A review</title>
-      <link>http://localhost:1313/publication/rn-94/</link>
+      <link>https://ladewig.co/publication/rn-94/</link>
       <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-94/</guid>
+      <guid>https://ladewig.co/publication/rn-94/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The influence of inorganic filler particle size on composite ion-exchange membranes for desalination</title>
-      <link>http://localhost:1313/publication/rn-99/</link>
+      <link>https://ladewig.co/publication/rn-99/</link>
       <pubDate>Wed, 29 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-99/</guid>
+      <guid>https://ladewig.co/publication/rn-99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of the change of soluble microbial products on membrane fouling in membrane bioreactor (MBR)</title>
-      <link>http://localhost:1313/publication/rn-98/</link>
+      <link>https://ladewig.co/publication/rn-98/</link>
       <pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-98/</guid>
+      <guid>https://ladewig.co/publication/rn-98/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preparation, Characterization and Performance of Templated Silica Membranes in Non-Osmotic Desalination</title>
-      <link>http://localhost:1313/publication/rn-101/</link>
+      <link>https://ladewig.co/publication/rn-101/</link>
       <pubDate>Mon, 02 May 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-101/</guid>
+      <guid>https://ladewig.co/publication/rn-101/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preparation of porous ion-exchange membranes (IEMs) and their characterizations</title>
-      <link>http://localhost:1313/publication/rn-102/</link>
+      <link>https://ladewig.co/publication/rn-102/</link>
       <pubDate>Wed, 19 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-102/</guid>
+      <guid>https://ladewig.co/publication/rn-102/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preparation and characterization of sulfonated polyethersulfone for cation-exchange membranes</title>
-      <link>http://localhost:1313/publication/rn-103/</link>
+      <link>https://ladewig.co/publication/rn-103/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-103/</guid>
+      <guid>https://ladewig.co/publication/rn-103/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preparation of porous composite ion-exchange membranes for desalination application</title>
-      <link>http://localhost:1313/publication/rn-100/</link>
+      <link>https://ladewig.co/publication/rn-100/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-100/</guid>
+      <guid>https://ladewig.co/publication/rn-100/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nafion-carbon nanocomposite membranes prepared using hydrothermal carbonization for proton-exchange-membrane fuel cells</title>
-      <link>http://localhost:1313/publication/rn-104/</link>
+      <link>https://ladewig.co/publication/rn-104/</link>
       <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-104/</guid>
+      <guid>https://ladewig.co/publication/rn-104/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What happens inside a fuel cell? Developing an experimental functional map of fuel cell performance</title>
-      <link>http://localhost:1313/publication/rn-109/</link>
+      <link>https://ladewig.co/publication/rn-109/</link>
       <pubDate>Fri, 20 Aug 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-109/</guid>
+      <guid>https://ladewig.co/publication/rn-109/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthesis of composite ion-exchange membranes and their electrochemical properties for desalination applications</title>
-      <link>http://localhost:1313/publication/rn-106/</link>
+      <link>https://ladewig.co/publication/rn-106/</link>
       <pubDate>Mon, 26 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-106/</guid>
+      <guid>https://ladewig.co/publication/rn-106/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functionalized mesoporous silica with very large pores for cellulase immobilization</title>
-      <link>http://localhost:1313/publication/rn-108/</link>
+      <link>https://ladewig.co/publication/rn-108/</link>
       <pubDate>Fri, 16 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-108/</guid>
+      <guid>https://ladewig.co/publication/rn-108/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Membrane Reactor Modelling, Validation and Simulation for the WGS Reaction using Metal Doped Silica Membranes</title>
-      <link>http://localhost:1313/publication/rn-110/</link>
+      <link>https://ladewig.co/publication/rn-110/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-110/</guid>
+      <guid>https://ladewig.co/publication/rn-110/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessment of postcombustion carbon capture technologies for power generation</title>
-      <link>http://localhost:1313/publication/rn-107/</link>
+      <link>https://ladewig.co/publication/rn-107/</link>
       <pubDate>Wed, 16 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-107/</guid>
+      <guid>https://ladewig.co/publication/rn-107/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of the ripple current in a 5 kW polymer electrolyte membrane fuel cell stack</title>
-      <link>http://localhost:1313/publication/rn-113/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-113/</guid>
+      <link>https://ladewig.co/publication/rn-113/</link>
+      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/publication/rn-113/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cobalt-doped silica membranes for gas separation</title>
-      <link>http://localhost:1313/publication/rn-115/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-115/</guid>
+      <link>https://ladewig.co/publication/rn-115/</link>
+      <pubDate>Tue, 20 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/publication/rn-115/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydrothermal stability of cobalt silica membranes in a water gas shift membrane reactor</title>
-      <link>http://localhost:1313/publication/rn-112/</link>
+      <link>https://ladewig.co/publication/rn-112/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-112/</guid>
+      <guid>https://ladewig.co/publication/rn-112/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving adsorbent properties of cage-like ordered amine functionalized mesoporous silica with very large pores for bioadsorption</title>
-      <link>http://localhost:1313/publication/rn-111/</link>
+      <link>https://ladewig.co/publication/rn-111/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-111/</guid>
+      <guid>https://ladewig.co/publication/rn-111/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance of cobalt silica membranes in gas mixture separation</title>
-      <link>http://localhost:1313/publication/rn-114/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-114/</guid>
+      <link>https://ladewig.co/publication/rn-114/</link>
+      <pubDate>Wed, 31 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/publication/rn-114/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preparation of new composite membranes for water desalination using electrodialysis</title>
+      <link>https://ladewig.co/publication/rn-116/</link>
+      <pubDate>Tue, 30 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/publication/rn-116/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Worth their salt</title>
-      <link>http://localhost:1313/publication/rn-117/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-117/</guid>
+      <link>https://ladewig.co/publication/rn-117/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/publication/rn-117/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydrolytically stable phosphorylated hybrid silicas for proton conduction</title>
-      <link>http://localhost:1313/publication/rn-118/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-118/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low energy plasma treatment of Nafion® membranes for PEM fuel cells</title>
-      <link>http://localhost:1313/publication/rn-121/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-121/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nafion-MPMDMS nanocomposite membranes with low methanol permeability</title>
-      <link>http://localhost:1313/publication/rn-120/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-120/</guid>
+      <link>https://ladewig.co/publication/rn-118/</link>
+      <pubDate>Thu, 20 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/publication/rn-118/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Physical and electrochemical characterization of nanocomposite membranes of nafion and functionalized silicon oxide</title>
-      <link>http://localhost:1313/publication/rn-119/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-119/</guid>
+      <link>https://ladewig.co/publication/rn-119/</link>
+      <pubDate>Sat, 07 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/publication/rn-119/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low energy plasma treatment of Nafion® membranes for PEM fuel cells</title>
+      <link>https://ladewig.co/publication/rn-121/</link>
+      <pubDate>Fri, 12 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/publication/rn-121/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nafion-MPMDMS nanocomposite membranes with low methanol permeability</title>
+      <link>https://ladewig.co/publication/rn-120/</link>
+      <pubDate>Tue, 12 Dec 2006 00:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/publication/rn-120/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Special theme issue: The third hydrogen technologies and opportunities workshop</title>
-      <link>http://localhost:1313/publication/rn-122/</link>
+      <link>https://ladewig.co/publication/rn-122/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rn-122/</guid>
+      <guid>https://ladewig.co/publication/rn-122/</guid>
       <description></description>
     </item>
     

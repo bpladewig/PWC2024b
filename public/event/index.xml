@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Prof. Dr. Bradley P. Ladewig - Academic Website</title>
-    <link>http://localhost:1313/event/</link>
-      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ladewig.co/event/</link>
+      <atom:link href="https://ladewig.co/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Aug 2024 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://ladewig.co/media/icon_hu7729264130191091259.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://localhost:1313/event/</link>
+      <link>https://ladewig.co/event/</link>
     </image>
     
     <item>
       <title>HyWay Consortium Meeting, Workshop &amp; Training</title>
-      <link>http://localhost:1313/event/20240819-hyway/</link>
+      <link>https://ladewig.co/event/20240819-hyway/</link>
       <pubDate>Mon, 19 Aug 2024 09:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/20240819-hyway/</guid>
+      <guid>https://ladewig.co/event/20240819-hyway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ramping-up European Hydrogen Economy</title>
-      <link>http://localhost:1313/event/20240712-eib/</link>
+      <link>https://ladewig.co/event/20240712-eib/</link>
       <pubDate>Fri, 12 Jul 2024 13:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/20240712-eib/</guid>
+      <guid>https://ladewig.co/event/20240712-eib/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Luxembourg Hydrogen Valley Public Launch</title>
-      <link>http://localhost:1313/event/20240617-luxhyval/</link>
+      <link>https://ladewig.co/event/20240617-luxhyval/</link>
       <pubDate>Mon, 17 Jun 2024 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/20240617-luxhyval/</guid>
+      <guid>https://ladewig.co/event/20240617-luxhyval/</guid>
       <description>
 
 
@@ -51,7 +51,7 @@
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;http://localhost:1313/media/luxhyval_short.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://ladewig.co/media/luxhyval_short.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 
 </description>

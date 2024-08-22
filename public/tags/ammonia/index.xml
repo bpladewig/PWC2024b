@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ammonia | Prof. Dr. Bradley P. Ladewig - Academic Website</title>
-    <link>http://localhost:1313/tags/ammonia/</link>
-      <atom:link href="http://localhost:1313/tags/ammonia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ladewig.co/tags/ammonia/</link>
+      <atom:link href="https://ladewig.co/tags/ammonia/index.xml" rel="self" type="application/rss+xml" />
     <description>Ammonia</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://ladewig.co/media/icon_hu7729264130191091259.png</url>
       <title>Ammonia</title>
-      <link>http://localhost:1313/tags/ammonia/</link>
+      <link>https://ladewig.co/tags/ammonia/</link>
     </image>
     
     <item>
       <title>H2-Global</title>
-      <link>http://localhost:1313/project/h2-global/</link>
+      <link>https://ladewig.co/project/h2-global/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/h2-global/</guid>
+      <guid>https://ladewig.co/project/h2-global/</guid>
       <description>&lt;p&gt;H2-Global focusses on electrochemical methods for green hydrogen production from a range of feedstocks. The project supports an extended scientific visit by &lt;a href=&#34;https://www.ese.iitb.ac.in/faculty/manoj-neergat&#34;&gt;Professor Manoj Neergat&lt;/a&gt; from IIT Bombay, working in Luxembourg for 12 months spread over a three year period.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Funding Acknowledgement&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;H2-Global is supported by the &lt;a href=&#34;https://www.fnr.lu&#34;&gt;Luxembourg National Research Fund&lt;/a&gt;, Project 17548946, under the INTER Mobility programme.&lt;/p&gt;
