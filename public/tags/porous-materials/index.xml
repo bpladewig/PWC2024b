@@ -7,7 +7,7 @@
     <description>Porous Materials</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ladewig.co/media/icon_hu7729264130191091259.png</url>
+      <url>https://ladewig.co/media/icon_hu12710796893474783489.png</url>
       <title>Porous Materials</title>
       <link>https://ladewig.co/tags/porous-materials/</link>
     </image>
@@ -19,8 +19,36 @@
       <guid>https://ladewig.co/project/apm-ml/</guid>
       <description>&lt;p&gt;APM-ML is a collaborative project between the University of Luxembourg and the National University of Singapore. The two collaborating Professors are Prof. Bradley Ladewig and Prof. Dan Zhao. Mr Kris Helten is the PhD researcher working on the project and will spend a total of 12 months (across several placements) working in NUS Singapore developing advanced porous materials for hydrogen separations, supported by machine learning techniques.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Funding Acknowledgement&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;APM-ML is supported by the &lt;a href=&#34;https://www.fnr.lu&#34;&gt;Luxembourg National Research Fund&lt;/a&gt;, Project 17112420, under the AFR Bilateral programme.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;FNR_LOGO_RGB.png&#34; alt=&#34;FNR Logo&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;APM-ML is supported by the 
+, Project 17112420, under the AFR Bilateral programme.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;FNR Logo&#34; srcset=&#34;
+               /project/apm-ml/FNR_LOGO_RGB_hu3234996628117764306.webp 400w,
+               /project/apm-ml/FNR_LOGO_RGB_hu12860678334104294067.webp 760w,
+               /project/apm-ml/FNR_LOGO_RGB_hu6469944121671059739.webp 1200w&#34;
+               src=&#34;https://ladewig.co/project/apm-ml/FNR_LOGO_RGB_hu3234996628117764306.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;128&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;</description>
     </item>
     
   </channel>

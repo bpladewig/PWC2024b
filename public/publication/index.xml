@@ -5,18 +5,26 @@
     <link>https://ladewig.co/publication/</link>
       <atom:link href="https://ladewig.co/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jul 2024 10:53:32 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ladewig.co/media/icon_hu7729264130191091259.png</url>
+      <url>https://ladewig.co/media/icon_hu12710796893474783489.png</url>
       <title>Publications</title>
       <link>https://ladewig.co/publication/</link>
     </image>
     
     <item>
-      <title>Facile hydrophobic modification strategy on hydrophilic metal organic frameworks for improved toluene capture</title>
-      <link>https://ladewig.co/publication/rn-43/</link>
-      <pubDate>Sat, 20 Jul 2024 10:53:32 +0000</pubDate>
-      <guid>https://ladewig.co/publication/rn-43/</guid>
+      <title>Recent Advances in Microporous Materials Membrane for Hydrogen Separation against Light Gases</title>
+      <link>https://ladewig.co/publication/rn-22/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/publication/rn-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Advances in Microporous Materials Membrane for Hydrogen Separation against Light Gases</title>
+      <link>https://ladewig.co/publication/rn-23/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/publication/rn-23/</guid>
       <description></description>
     </item>
     
@@ -161,6 +169,14 @@
       <link>https://ladewig.co/publication/rn-44/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://ladewig.co/publication/rn-44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facile hydrophobic modification strategy on hydrophilic metal organic frameworks for improved toluene capture</title>
+      <link>https://ladewig.co/publication/rn-43/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/publication/rn-43/</guid>
       <description></description>
     </item>
     
@@ -717,14 +733,6 @@
     </item>
     
     <item>
-      <title>Hydrothermal stability of cobalt silica membranes in a water gas shift membrane reactor</title>
-      <link>https://ladewig.co/publication/rn-112/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://ladewig.co/publication/rn-112/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Improving adsorbent properties of cage-like ordered amine functionalized mesoporous silica with very large pores for bioadsorption</title>
       <link>https://ladewig.co/publication/rn-111/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
@@ -737,6 +745,14 @@
       <link>https://ladewig.co/publication/rn-114/</link>
       <pubDate>Wed, 31 Dec 2008 00:00:00 +0000</pubDate>
       <guid>https://ladewig.co/publication/rn-114/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrothermal stability of cobalt silica membranes in a water gas shift membrane reactor</title>
+      <link>https://ladewig.co/publication/rn-112/</link>
+      <pubDate>Tue, 30 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/publication/rn-112/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://ladewig.co/publication_types/article-journal/</link>
       <atom:link href="https://ladewig.co/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ladewig.co/media/icon_hu7729264130191091259.png</url>
+      <url>https://ladewig.co/media/icon_hu12710796893474783489.png</url>
       <title>Article-Journal</title>
       <link>https://ladewig.co/publication_types/article-journal/</link>
     </image>
+    
+    <item>
+      <title>Recent Advances in Microporous Materials Membrane for Hydrogen Separation against Light Gases</title>
+      <link>https://ladewig.co/publication/rn-22/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/publication/rn-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Extraction of the intrinsic rate constant for a photocyclization reaction in capillary microreactors using a simplified reactor model</title>
@@ -653,14 +661,6 @@
     </item>
     
     <item>
-      <title>Hydrothermal stability of cobalt silica membranes in a water gas shift membrane reactor</title>
-      <link>https://ladewig.co/publication/rn-112/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://ladewig.co/publication/rn-112/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Improving adsorbent properties of cage-like ordered amine functionalized mesoporous silica with very large pores for bioadsorption</title>
       <link>https://ladewig.co/publication/rn-111/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
@@ -673,6 +673,14 @@
       <link>https://ladewig.co/publication/rn-114/</link>
       <pubDate>Wed, 31 Dec 2008 00:00:00 +0000</pubDate>
       <guid>https://ladewig.co/publication/rn-114/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrothermal stability of cobalt silica membranes in a water gas shift membrane reactor</title>
+      <link>https://ladewig.co/publication/rn-112/</link>
+      <pubDate>Tue, 30 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/publication/rn-112/</guid>
       <description></description>
     </item>
     

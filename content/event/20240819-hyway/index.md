@@ -31,7 +31,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 #{{< video src="luxhyval_short.mp4" controls="yes" >}}
 
@@ -65,6 +65,8 @@ projects:
   - hyway
 ---
 
+![Bradley Ladewig presenting](80272.jpg)
+![Bradley Ladewig speaking](80273.jpg)
 
 
 

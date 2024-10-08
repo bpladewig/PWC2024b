@@ -31,7 +31,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 #{{< video src="luxhyval_short.mp4" controls="yes" >}}
 
