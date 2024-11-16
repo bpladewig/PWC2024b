@@ -72,14 +72,18 @@ education:
     date_end: 2002-06-01
     summary: |
       Graduated with First Class Honours. Final year studied as an exchange student at Nottingham University.
-
-      
   - area: Graduate Certificate in Higher Education
     institution: Monash University
     date_start: 2009-01-01
     date_end: 2010-12-01
     summary: |
       Teaching qualification, specialising in university teaching.
+  - area: Cambridge Senior Management Programme
+    institution: Cambridge Judge Business School, Cambridge University
+    date_start: 2024-11-24
+    date_end: 2025-05-01
+    summary: |
+      Senior management training programme to build key leadership skills, and apply them to drive strategy, lead digital innovation and manage change.
 
 work:
   - position: Professor of Energy Process Engineering, Paul Wurth Chair
@@ -132,37 +136,41 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-#skills:
-#  - name: Technical Skills
-#    items:
-#      - name: Python
-#        description: ''
-#        percent: 80
-#        icon: code-bracket
-#      - name: Data Science
-#        description: ''
-#        percent: 100
-#        icon: chart-bar
-#      - name: SQL
-#        description: ''
-#        percent: 40
-#        icon: circle-stack
-#  - name: Hobbies
-#    color: '#eeac02'
-#    color_border: '#f0bf23'
-#    items:
-#      - name: Hiking
-#        description: ''
-#        percent: 60
-#        icon: person-simple-walk
-#      - name: Cats
-#        description: ''
-#        percent: 100
-#        icon: cat
-#      - name: Photography
-#        description: ''
-#        percent: 80
-#        icon: camera
+skills:
+  - name: Professional Skills
+    items:
+      - name: Research group leadership
+        description: 'Experienced in building, leading, and problem-solving in diverse research teams'
+        percent: 
+        icon: user-group
+      - name: Budget management
+        description: 'Extensive budget management experience with small to large (10M€+) projects'
+        percent: 
+        icon: currency-euro
+      - name: Talent management
+        description: 'Recruiting and retaining high-performing team members'
+        percent: 
+        icon: user-plus
+      - name: Communication
+        description: 'Exceptional skills in public speaking'
+        percent: 
+        icon: presentation-chart-line
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 
+        icon: person-simple-walk
+      - name: Travel
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
 languages:
   - name: English
@@ -192,12 +200,19 @@ awards:
     summary: |
       
   - title: Fellow, Royal Society of Chemistry
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    url: https://www.rsc.org
     date: '2016-01-01'
     awarder: Royal Society of Chemistry
     icon: custom/rsc
     summary: |
-      
+  
+  - title: Chevening Scholar
+    url: https://www.chevening.org
+    date: '2004-01-01'
+    awarder: Royal Society of Chemistry
+    icon: custom/chevening
+    summary: | 
+      Fully funded scholarship supporting one year abroad during my PhD, mostly in the Chemistry Department at Imperial College London working with Prof. Anthony Kucernak, then a short placement with Prof. Suzana Nunes at GKSS, Germany (now known as Helmholtz Zentrum Hereon)
 ---
 
 ## About Me

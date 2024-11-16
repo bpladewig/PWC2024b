@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ladewig.co/event/20241121-energy-mission/</loc>
+    <lastmod>2024-11-21T13:10:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ladewig.co/event/</loc>
-    <lastmod>2024-10-02T19:00:00+00:00</lastmod>
+    <lastmod>2024-11-21T13:10:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ladewig.co/event/20241121-ehw/</loc>
+    <lastmod>2024-11-21T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ladewig.co/event/20241112-igd/</loc>
+    <lastmod>2024-11-12T18:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ladewig.co/event/20241004-donor-event/</loc>
@@ -616,6 +628,9 @@
   </url><url>
     <loc>https://ladewig.co/publication/rn-122/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ladewig.co/video/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -5,12 +5,36 @@
     <link>https://ladewig.co/event/</link>
       <atom:link href="https://ladewig.co/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2024 19:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2024 13:10:00 +0000</lastBuildDate>
     <image>
       <url>https://ladewig.co/media/icon_hu12710796893474783489.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://ladewig.co/event/</link>
     </image>
+    
+    <item>
+      <title>Energy Mission 2024 - Benelux Edition</title>
+      <link>https://ladewig.co/event/20241121-energy-mission/</link>
+      <pubDate>Thu, 21 Nov 2024 13:10:00 +0000</pubDate>
+      <guid>https://ladewig.co/event/20241121-energy-mission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>European Hydrogen Week 2024</title>
+      <link>https://ladewig.co/event/20241121-ehw/</link>
+      <pubDate>Thu, 21 Nov 2024 10:00:00 +0000</pubDate>
+      <guid>https://ladewig.co/event/20241121-ehw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Institut Grand-Ducal, Section des Sciences, Scientific Communication Session</title>
+      <link>https://ladewig.co/event/20241112-igd/</link>
+      <pubDate>Tue, 12 Nov 2024 18:30:00 +0000</pubDate>
+      <guid>https://ladewig.co/event/20241112-igd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>University of Luxembourg 2024 Donor Appreciation Evening</title>
